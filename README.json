@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T20:02:27Z",
+            "last_commit": "2026-08-14T18:03:35Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25705
+            "stars": 25704
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2023-01-03T17:13:31Z",
             "owner": "ethereum",
             "repo": "solidity-examples",
-            "stars": 580
+            "stars": 579
           }
         },
         {
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T17:45:24Z",
+            "last_commit": "2026-08-14T16:27:01Z",
             "owner": "AmazingAng",
             "repo": "WTF-Solidity",
             "stars": 14032
@@ -123,7 +123,7 @@
             "last_commit": "2022-03-22T11:25:05Z",
             "owner": "ExtropyIO",
             "repo": "defi-bot",
-            "stars": 1230
+            "stars": 1231
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-11T03:01:13Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6737
+            "stars": 6741
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-04-13T21:32:17Z",
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -300,10 +300,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T05:09:07Z",
+            "last_commit": "2026-08-14T21:45:50Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1876
+            "stars": 1877
           }
         },
         {
@@ -328,7 +328,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T14:03:29Z",
+            "last_commit": "2026-08-14T14:02:00Z",
             "owner": "mixbytes",
             "repo": "audits_public",
             "stars": 526
@@ -370,7 +370,7 @@
             "last_commit": "2024-04-19T08:52:31Z",
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3324
+            "stars": 3323
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-07-30T19:37:39Z",
             "owner": "Uniswap",
             "repo": "v3-core",
-            "stars": 5022
+            "stars": 5021
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-13T22:03:34Z",
             "owner": "sushi-labs",
             "repo": "sushiswap",
-            "stars": 1941
+            "stars": 1942
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-07-31T10:37:26Z",
             "owner": "ensdomains",
             "repo": "ens-contracts",
-            "stars": 726
+            "stars": 725
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2024-06-04T15:20:23Z",
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9040
+            "stars": 9039
           }
         },
         {
@@ -746,7 +746,7 @@
             "last_commit": "2024-06-19T14:27:22Z",
             "owner": "ethereum-boilerplate",
             "repo": "ethereum-boilerplate",
-            "stars": 4137
+            "stars": 4138
           }
         },
         {
@@ -923,10 +923,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T21:02:04Z",
+            "last_commit": "2026-08-14T17:12:41Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27214
+            "stars": 27216
           }
         },
         {
@@ -940,7 +940,7 @@
             "last_commit": "2025-07-21T22:24:39Z",
             "owner": "transmissions11",
             "repo": "solmate",
-            "stars": 4289
+            "stars": 4288
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2026-07-30T19:37:42Z",
             "owner": "Uniswap",
             "repo": "v3-periphery",
-            "stars": 1335
+            "stars": 1334
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2026-08-13T16:09:03Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
-            "stars": 1170
+            "stars": 1171
           }
         },
         {
@@ -1010,7 +1010,7 @@
             "last_commit": "2026-05-25T11:15:34Z",
             "owner": "thirdweb-dev",
             "repo": "contracts",
-            "stars": 1089
+            "stars": 1088
           }
         },
         {
@@ -1063,7 +1063,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-03T09:26:34Z",
+            "last_commit": "2026-08-14T16:33:52Z",
             "owner": "PaulRBerg",
             "repo": "prb-math",
             "stars": 1006
@@ -1497,7 +1497,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13918
+            "stars": 13917
           }
         },
         {
@@ -1508,10 +1508,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T22:46:56Z",
+            "last_commit": "2026-08-14T22:49:33Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10558
+            "stars": 10563
           }
         },
         {
@@ -1606,7 +1606,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:54:51Z",
+            "last_commit": "2026-08-14T20:57:23Z",
             "owner": "OpenZeppelin",
             "repo": "solidity-docgen",
             "stars": 461
@@ -1822,7 +1822,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:59:49Z",
+            "last_commit": "2026-08-14T22:26:24Z",
             "owner": "prettier-solidity",
             "repo": "prettier-plugin-solidity",
             "stars": 751
@@ -1971,7 +1971,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6341
+            "stars": 6343
           }
         },
         {
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-13T22:35:04Z",
+            "last_commit": "2026-08-14T22:27:23Z",
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3167
@@ -2094,7 +2094,7 @@
             "last_commit": "2026-07-23T21:32:46Z",
             "owner": "argotorg",
             "repo": "solc-js",
-            "stars": 1507
+            "stars": 1508
           }
         },
         {
@@ -2204,7 +2204,7 @@
             "last_commit": "2023-08-16T17:41:09Z",
             "owner": "rust-ethereum",
             "repo": "ethabi",
-            "stars": 524
+            "stars": 523
           }
         }
       ],
@@ -2338,7 +2338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:21:25.252Z",
+    "last_updated": "2026-08-14T22:54:05.315Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_sha": "1eca9c80db97564bf3416e92b0921e73eae87072",
     "enhanced_repository": "enhansome/enhansome-solidity",
