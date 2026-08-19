@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:40:21Z",
+                "last_commit": "2026-08-19T19:54:48Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25702
+                "stars": 25703
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-18T05:31:42Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6748
+                "stars": 6749
               }
             },
             {
@@ -422,7 +422,7 @@
                     "last_commit": "2024-02-03T18:32:10Z",
                     "owner": "flashbots",
                     "repo": "simple-arbitrage",
-                    "stars": 2112
+                    "stars": 2111
                   }
                 },
                 {
@@ -576,7 +576,7 @@
                     "archived": false,
                     "id": 289845062,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T11:24:42Z",
+                    "last_commit": "2026-08-19T22:33:47Z",
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
                     "stars": 1943
@@ -609,7 +609,7 @@
                     "last_commit": "2026-07-31T10:37:26Z",
                     "owner": "ensdomains",
                     "repo": "ens-contracts",
-                    "stars": 724
+                    "stars": 725
                   }
                 },
                 {
@@ -828,7 +828,7 @@
                 "archived": false,
                 "id": 306618195,
                 "language": "Solidity",
-                "last_commit": "2026-08-05T08:05:19Z",
+                "last_commit": "2026-08-19T18:09:29Z",
                 "owner": "wighawag",
                 "repo": "template-ethereum-contracts",
                 "stars": 532
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-19T10:36:28Z",
+            "last_commit": "2026-08-19T14:24:45Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27219
+            "stars": 27221
           }
         },
         {
@@ -1056,7 +1056,7 @@
             "archived": false,
             "id": 141754460,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:12:32Z",
+            "last_commit": "2026-08-19T14:25:32Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
             "stars": 1172
@@ -1431,7 +1431,7 @@
             "archived": false,
             "id": 487090777,
             "language": "Solidity",
-            "last_commit": "2024-02-01T10:29:38Z",
+            "last_commit": "2026-08-19T19:30:32Z",
             "owner": "partylikeits1983",
             "repo": "num-complex-solidity",
             "stars": 56
@@ -1619,7 +1619,7 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:45:15Z",
+                "last_commit": "2026-08-19T20:17:20Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10568
@@ -2113,7 +2113,7 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-12T22:56:04Z",
+                "last_commit": "2026-08-19T19:19:26Z",
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6345
@@ -2173,7 +2173,7 @@
                 "archived": false,
                 "id": 183183290,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:40:18Z",
+                "last_commit": "2026-08-19T13:05:29Z",
                 "owner": "argotorg",
                 "repo": "sourcify",
                 "stars": 944
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:15.647Z",
+    "last_updated": "2026-08-19T22:54:41.105Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
