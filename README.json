@@ -1,919 +1,991 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ethereum/solidity",
+              "description": "Source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40892817,
+                "language": "C++",
+                "last_commit": "2026-08-18T22:40:21Z",
+                "owner": "argotorg",
+                "repo": "solidity",
+                "stars": 25702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum/solidity-examples",
+              "description": "Loose collection of example code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73497633,
+                "language": "Solidity",
+                "last_commit": "2023-01-03T17:13:31Z",
+                "owner": "ethereum",
+                "repo": "solidity-examples",
+                "stars": 579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum/solc-bin",
+              "description": "Current and historical builds of the compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55413205,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T01:39:55Z",
+                "owner": "argotorg",
+                "repo": "solc-bin",
+                "stars": 431
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WTF Solidity",
+              "description": "Open-source, community-reviewed tutorial in Chinese and English covering intro, advanced, and application topics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 476957520,
+                "language": "Solidity",
+                "last_commit": "2026-08-14T16:27:01Z",
+                "owner": "AmazingAng",
+                "repo": "WTF-Solidity",
+                "stars": 14033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WTF Ethers",
+              "description": "Open-source, community-reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516963300,
+                "language": "JavaScript",
+                "last_commit": "2025-10-06T08:50:40Z",
+                "owner": "WTFAcademy",
+                "repo": "WTF-Ethers",
+                "stars": 3524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "willitscale/learning-solidity",
+              "description": "Complete guide to getting started, creating your own crypto, ICOs, and deployment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103062798,
+                "language": "Solidity",
+                "last_commit": "2023-10-15T09:49:12Z",
+                "owner": "willitscale",
+                "repo": "learning-solidity",
+                "stars": 2065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "manojpramesh/solidity-cheatsheet",
+              "description": "Cheat sheet and best practices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111513785,
+                "language": null,
+                "last_commit": "2026-04-05T02:30:43Z",
+                "owner": "manojpramesh",
+                "repo": "solidity-cheatsheet",
+                "stars": 1506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExtropyIO/defi-bot",
+              "description": "Tutorial for building DeFi arbitrage bots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308277272,
+                "language": "Solidity",
+                "last_commit": "2022-03-22T11:25:05Z",
+                "owner": "ExtropyIO",
+                "repo": "defi-bot",
+                "stars": 1232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nishuzumi/Web3-Enterprise-level-engineering",
+              "description": "Web3 Enterprise Engineering Writing Specification Tutorial [Chinese Language - 中文版].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535525812,
+                "language": "JavaScript",
+                "last_commit": "2022-10-06T18:46:19Z",
+                "owner": "nishuzumi",
+                "repo": "Web3-Enterprise-level-engineering",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SunWeb3Sec/DeFiHackLabs",
+              "description": "Reproduce DeFi hack incidents using Foundry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501990676,
+                "language": "Solidity",
+                "last_commit": "2026-08-18T05:31:42Z",
+                "owner": "SunWeb3Sec",
+                "repo": "DeFiHackLabs",
+                "stars": 6748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crytic/building-secure-contracts",
+              "description": "Guidelines and training material for writing secure smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233102473,
+                "language": "Solidity",
+                "last_commit": "2026-04-13T21:32:17Z",
+                "owner": "crytic",
+                "repo": "building-secure-contracts",
+                "stars": 2479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crytic/not-so-smart-contracts",
+              "description": "Examples of common vulnerabilities, including code from real smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101668791,
+                "language": "Solidity",
+                "last_commit": "2023-02-24T12:18:59Z",
+                "owner": "crytic",
+                "repo": "not-so-smart-contracts",
+                "stars": 2228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rari-Capital/security-checklist",
+              "description": "Opinionated security and code quality checklist for smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402241377,
+                "language": null,
+                "last_commit": "2023-07-02T23:04:48Z",
+                "owner": "transmissions11",
+                "repo": "solcurity",
+                "stars": 2183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "d-xo/weird-erc20",
+              "description": "Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289896413,
+                "language": "Solidity",
+                "last_commit": "2025-06-03T10:39:47Z",
+                "owner": "d-xo",
+                "repo": "weird-erc20",
+                "stars": 1707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sigp/solidity-security-blog",
+              "description": "Comprehensive list of known attack vectors and common anti-patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135463860,
+                "language": null,
+                "last_commit": "2022-09-23T12:06:25Z",
+                "owner": "sigp",
+                "repo": "solidity-security-blog",
+                "stars": 1522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crytic/awesome-ethereum-security",
+              "description": "Curated list of Ethereum security references, guidance, tools, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144327211,
+                "language": null,
+                "last_commit": "2024-08-20T12:39:26Z",
+                "owner": "crytic",
+                "repo": "awesome-ethereum-security",
+                "stars": 1485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "securing/SCSVS",
+              "description": "Smart Contract Security Verification Standard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 167376270,
+                "language": null,
+                "last_commit": "2023-02-07T06:03:20Z",
+                "owner": "securing",
+                "repo": "SCSVS",
+                "stars": 629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OriginProtocol/security",
+              "description": "Materials related to security: docs, checklists, processes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320097367,
+                "language": "Solidity",
+                "last_commit": "2026-06-24T07:22:44Z",
+                "owner": "OriginProtocol",
+                "repo": "security",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto-Virus/cream-finance-exploit-example",
+              "description": "Example implementation of the Cream Finance flashloan exploit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422451755,
+                "language": "Solidity",
+                "last_commit": "2021-10-30T02:04:50Z",
+                "owner": "Crypto-Virus",
+                "repo": "cream-finance-exploit-example",
+                "stars": 118
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Trail of Bits",
+                  "description": "Public security audits by the Trail of Bits Team.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34814001,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T05:07:48Z",
+                    "owner": "trailofbits",
+                    "repo": "publications",
+                    "stars": 1879
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpearbitDAO",
+                  "description": "Public security audits by the SpearbitDAO Team.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 442850954,
+                    "language": null,
+                    "last_commit": "2026-08-12T13:32:41Z",
+                    "owner": "spearbit",
+                    "repo": "portfolio",
+                    "stars": 576
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MixBytes",
+                  "description": "Public security audits by the MixBytes Team.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102384781,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-14T14:02:00Z",
+                    "owner": "mixbytes",
+                    "repo": "audits_public",
+                    "stars": 526
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Arbitrary Execution",
+                  "description": "Public security audits by the Arbitrary Execution Team.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 494566727,
+                    "language": null,
+                    "last_commit": "2023-09-19T13:15:59Z",
+                    "owner": "arbitraryexecution",
+                    "repo": "publications",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Audits"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fravoll/solidity-patterns",
+                  "description": "Collection of patterns and best practices for smart contract development.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121522860,
+                    "language": "Solidity",
+                    "last_commit": "2024-04-19T08:52:31Z",
+                    "owner": "fravoll",
+                    "repo": "solidity-patterns",
+                    "stars": 3324
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "libevm/subway",
+                  "description": "Practical example of how to perform sandwich attacks on Ethereum.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 437113064,
+                    "language": "Solidity",
+                    "last_commit": "2023-08-02T11:30:53Z",
+                    "owner": "libevm",
+                    "repo": "subway",
+                    "stars": 2207
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flashbots/simple-arbitrage",
+                  "description": "Example arbitrage bot using Flashbots.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 323977990,
+                    "language": "TypeScript",
+                    "last_commit": "2024-02-03T18:32:10Z",
+                    "owner": "flashbots",
+                    "repo": "simple-arbitrage",
+                    "stars": 2112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "m1guelpf/lil-web3",
+                  "description": "Simple, intentionally-limited versions of web3 protocols & apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 444304276,
+                    "language": "Solidity",
+                    "last_commit": "2022-11-20T02:37:04Z",
+                    "owner": "m1guelpf",
+                    "repo": "lil-web3",
+                    "stars": 1170
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cyrusadkisson/solidity-baby-steps",
+                  "description": "Comprehensive collection of contract examples.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41688739,
+                    "language": null,
+                    "last_commit": "2021-11-01T13:06:32Z",
+                    "owner": "cyrusadkisson",
+                    "repo": "solidity-baby-steps",
+                    "stars": 952
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pedrobergamini/flashloaner-contract",
+                  "description": "Smart contracts that operate arbitrages between Sushiswap and Uniswap.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 297181907,
+                    "language": "Solidity",
+                    "last_commit": "2025-12-04T16:28:53Z",
+                    "owner": "pedrobergamini",
+                    "repo": "flashloaner-contract",
+                    "stars": 546
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "raineorshine/solidity-by-example",
+                  "description": "Collection of short yet fully functional contracts that demonstrate language features.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63085011,
+                    "language": "JavaScript",
+                    "last_commit": "2017-12-10T19:28:37Z",
+                    "owner": "raineorshine",
+                    "repo": "solidity-by-example",
+                    "stars": 434
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "miguelmota/solidity-idiosyncrasies",
+                  "description": "Common gotchas, pitfalls, limitations, and idiosyncrasies.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 107217298,
+                    "language": "Solidity",
+                    "last_commit": "2020-11-30T02:11:40Z",
+                    "owner": "miguelmota",
+                    "repo": "solidity-idiosyncrasies",
+                    "stars": 342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "alephao/solidity-benchmarks",
+                  "description": "Benchmarks of popular implementations of ERC standards.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 481319169,
+                    "language": "Solidity",
+                    "last_commit": "2024-07-28T21:46:37Z",
+                    "owner": "alephao",
+                    "repo": "solidity-benchmarks",
+                    "stars": 104
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lsaether/bonding-curves",
+                  "description": "Smart contracts for bonding curves (aka curve bonded tokens).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 153005517,
+                    "language": "Solidity",
+                    "last_commit": "2018-11-12T08:14:45Z",
+                    "owner": "lsaether",
+                    "repo": "bonding-curves",
+                    "stars": 93
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Educational"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Uniswap/uniswap-v3-core",
+                  "description": "Core smart contracts of Uniswap v3.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 260037952,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-30T19:37:39Z",
+                    "owner": "Uniswap",
+                    "repo": "v3-core",
+                    "stars": 5022
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "compound-finance/compound-protocol",
+                  "description": "Compound Protocol contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200305501,
+                    "language": "TypeScript",
+                    "last_commit": "2024-06-10T04:19:47Z",
+                    "owner": "compound-finance",
+                    "repo": "compound-protocol",
+                    "stars": 2038
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sushiswap/sushiswap",
+                  "description": "Sushiswap smart contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 289845062,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T11:24:42Z",
+                    "owner": "sushi-labs",
+                    "repo": "sushiswap",
+                    "stars": 1943
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bancorprotocol/contract-solidity",
+                  "description": "Bancor Protocol contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 82088032,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-29T09:54:35Z",
+                    "owner": "bancorprotocol",
+                    "repo": "contracts-solidity",
+                    "stars": 895
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ensdomains/ens-contracts",
+                  "description": "Ethereum Name Service (ENS) contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 367026848,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-31T10:37:26Z",
+                    "owner": "ensdomains",
+                    "repo": "ens-contracts",
+                    "stars": 724
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OlympusDAO/olympus-contracts",
+                  "description": "OlympusDAO contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 341376033,
+                    "language": "Solidity",
+                    "last_commit": "2026-08-18T09:14:58Z",
+                    "owner": "OlympusDAO",
+                    "repo": "olympus-contracts",
+                    "stars": 720
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "andrecronje/rarity",
+                  "description": "D20srd reference implementation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403252103,
+                    "language": "Solidity",
+                    "last_commit": "2022-05-19T09:12:51Z",
+                    "owner": "andrecronje",
+                    "repo": "rarity",
+                    "stars": 600
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "graphprotocol/contracts",
+                  "description": "Graph Protocol Contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 161252517,
+                    "language": "Solidity",
+                    "last_commit": "2026-08-04T17:02:12Z",
+                    "owner": "graphprotocol",
+                    "repo": "contracts",
+                    "stars": 372
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "trusttoken/smart-contracts",
+                  "description": "TrustToken smart contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115388442,
+                    "language": "TypeScript",
+                    "last_commit": "2025-02-17T15:23:59Z",
+                    "owner": "trusttoken",
+                    "repo": "contracts-pre22",
+                    "stars": 318
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wyvernprotocol/wyvern-v3",
+                  "description": "Core smart contracts for Wyvern v3, a decentralized digital asset exchange protocol.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140927186,
+                    "language": "JavaScript",
+                    "last_commit": "2024-05-29T20:27:56Z",
+                    "owner": "wyvernprotocol",
+                    "repo": "wyvern-v3",
+                    "stars": 295
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dharma-eng/dharma-smart-wallet",
+                  "description": "Smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 216948181,
+                    "language": "Solidity",
+                    "last_commit": "2023-01-04T12:38:38Z",
+                    "owner": "dharma-eng",
+                    "repo": "dharma-smart-wallet",
+                    "stars": 269
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Abracadabra-money/magic-internet-money",
+                  "description": "Magic Internet Money (MIM) contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 363101442,
+                    "language": "Solidity",
+                    "last_commit": "2022-11-18T06:03:03Z",
+                    "owner": "Abracadabra-money",
+                    "repo": "magic-internet-money",
+                    "stars": 215
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "axieinfinity/ronin-smart-contracts",
+                  "description": "Axie Infinity Ronin contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 280412742,
+                    "language": "Solidity",
+                    "last_commit": "2024-05-11T12:48:11Z",
+                    "owner": "axieinfinity",
+                    "repo": "ronin-smart-contracts",
+                    "stars": 154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "smartcontractkit/LinkToken",
+                  "description": "LINK token contracts for the Chainlink Network.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 97355967,
+                    "language": "Solidity",
+                    "last_commit": "2023-11-11T08:54:06Z",
+                    "owner": "smartcontractkit",
+                    "repo": "LinkToken",
+                    "stars": 134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sushiswap/kashi-lending",
+                  "description": "Kashi Lending platform contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 338945269,
+                    "language": null,
+                    "last_commit": "2022-10-25T17:57:57Z",
+                    "owner": "sushiswap",
+                    "repo": "kashi-lending",
+                    "stars": 83
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Deployed on Ethereum Mainnet"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "austintgriffith/scaffold-eth",
+              "description": "GitHub template providing an Ethereum dev stack focused on fast product iterations.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 259354262,
+                "language": "CSS",
+                "last_commit": "2024-06-04T15:20:23Z",
+                "owner": "scaffold-eth",
+                "repo": "scaffold-eth",
+                "stars": 9041
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum-boilerplate/ethereum-boilerplate",
+              "description": "React components and hooks to build dApps fast without running your own backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417141259,
+                "language": "TypeScript",
+                "last_commit": "2024-06-19T14:27:22Z",
+                "owner": "ethereum-boilerplate",
+                "repo": "ethereum-boilerplate",
+                "stars": 4139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paulrberg/solidity-template",
+              "description": "GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277660991,
+                "language": "TypeScript",
+                "last_commit": "2026-02-03T17:22:01Z",
+                "owner": "PaulRBerg",
+                "repo": "hardhat-template",
+                "stars": 1971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wighawag/template-ethereum-contracts",
+              "description": "Template to develop smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306618195,
+                "language": "Solidity",
+                "last_commit": "2026-08-05T08:05:19Z",
+                "owner": "wighawag",
+                "repo": "template-ethereum-contracts",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gakonst/dapptools-template",
+              "description": "Forkable template to get you started with Dapp Tools.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 403005241,
+                "language": "Solidity",
+                "last_commit": "2024-02-16T21:57:19Z",
+                "owner": "foundry-rs",
+                "repo": "forge-template",
+                "stars": 412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rhlsthrm/typescript-solidity-dev-starter-kit",
+              "description": "Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216521759,
+                "language": "TypeScript",
+                "last_commit": "2023-03-04T05:58:22Z",
+                "owner": "rhlsthrm",
+                "repo": "typescript-solidity-dev-starter-kit",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomhirst/solidity-nextjs-starter",
+              "description": "Full-stack dApp starter built with Next.js (React).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392376823,
+                "language": "TypeScript",
+                "last_commit": "2024-04-04T11:04:06Z",
+                "owner": "tomhirst",
+                "repo": "solidity-nextjs-starter",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "transmissions11/foundry-template",
+              "description": "Streamlined template for getting started with Foundry and Solmate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449064050,
+                "language": "Solidity",
+                "last_commit": "2023-01-19T19:07:13Z",
+                "owner": "transmissions11",
+                "repo": "foundry-template",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodeFactoryIo/solidity-node-docker-starter",
+              "description": "GitHub template with Docker containers for building dApps with Truffle and Node.js as a backend server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132317784,
+                "language": "JavaScript",
+                "last_commit": "2019-08-27T22:51:33Z",
+                "owner": "NodeFactoryIo",
+                "repo": "solidity-node-docker-starter",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZumZoom/solidity-template",
+              "description": "Hardhat template with preconfigured GitHub Actions and Coveralls support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375011158,
+                "language": "JavaScript",
+                "last_commit": "2024-11-10T15:00:57Z",
+                "owner": "ZumZoom",
+                "repo": "solidity-template",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenZeppelin/ethernaut",
+              "description": "Web3 wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111001784,
+                "language": "Solidity",
+                "last_commit": "2026-08-15T09:00:55Z",
+                "owner": "OpenZeppelin",
+                "repo": "ethernaut",
+                "stars": 2328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenZeppelin/damn-vulnerable-defi",
+              "description": "Set of challenges to hack DeFi implementations on Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297491234,
+                "language": "Solidity",
+                "last_commit": "2024-07-25T14:03:11Z",
+                "owner": "OpenZeppelin",
+                "repo": "damn-vulnerable-defi",
+                "stars": 753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity-Challenges",
+              "description": "Offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios. Contributors are welcome to add new challenges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 821336407,
+                "language": "Solidity",
+                "last_commit": "2025-01-21T10:27:19Z",
+                "owner": "passandscore",
+                "repo": "solidity-challenges",
+                "stars": 77
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Practice"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ethereum/solidity",
-          "description": "Source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T22:40:21Z",
-            "owner": "argotorg",
-            "repo": "solidity",
-            "stars": 25703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum/solidity-examples",
-          "description": "Loose collection of example code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2023-01-03T17:13:31Z",
-            "owner": "ethereum",
-            "repo": "solidity-examples",
-            "stars": 579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum/solc-bin",
-          "description": "Current and historical builds of the compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T01:41:47Z",
-            "owner": "argotorg",
-            "repo": "solc-bin",
-            "stars": 431
-          }
-        }
-      ],
-      "title": "Official"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WTF Solidity",
-          "description": "Open-source, community-reviewed tutorial in Chinese and English covering intro, advanced, and application topics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-14T16:27:01Z",
-            "owner": "AmazingAng",
-            "repo": "WTF-Solidity",
-            "stars": 14034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WTF Ethers",
-          "description": "Open-source, community-reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-06T08:50:40Z",
-            "owner": "WTFAcademy",
-            "repo": "WTF-Ethers",
-            "stars": 3525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "willitscale/learning-solidity",
-          "description": "Complete guide to getting started, creating your own crypto, ICOs, and deployment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-10-15T09:49:12Z",
-            "owner": "willitscale",
-            "repo": "learning-solidity",
-            "stars": 2065
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "manojpramesh/solidity-cheatsheet",
-          "description": "Cheat sheet and best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-05T02:30:43Z",
-            "owner": "manojpramesh",
-            "repo": "solidity-cheatsheet",
-            "stars": 1506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtropyIO/defi-bot",
-          "description": "Tutorial for building DeFi arbitrage bots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2022-03-22T11:25:05Z",
-            "owner": "ExtropyIO",
-            "repo": "defi-bot",
-            "stars": 1233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nishuzumi/Web3-Enterprise-level-engineering",
-          "description": "Web3 Enterprise Engineering Writing Specification Tutorial [Chinese Language - 中文版].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-06T18:46:19Z",
-            "owner": "nishuzumi",
-            "repo": "Web3-Enterprise-level-engineering",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SunWeb3Sec/DeFiHackLabs",
-          "description": "Reproduce DeFi hack incidents using Foundry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-18T05:31:42Z",
-            "owner": "SunWeb3Sec",
-            "repo": "DeFiHackLabs",
-            "stars": 6749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crytic/building-secure-contracts",
-          "description": "Guidelines and training material for writing secure smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-04-13T21:32:17Z",
-            "owner": "crytic",
-            "repo": "building-secure-contracts",
-            "stars": 2479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crytic/not-so-smart-contracts",
-          "description": "Examples of common vulnerabilities, including code from real smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2023-02-24T12:18:59Z",
-            "owner": "crytic",
-            "repo": "not-so-smart-contracts",
-            "stars": 2228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rari-Capital/security-checklist",
-          "description": "Opinionated security and code quality checklist for smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-02T23:04:48Z",
-            "owner": "transmissions11",
-            "repo": "solcurity",
-            "stars": 2184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "d-xo/weird-erc20",
-          "description": "Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-06-03T10:39:47Z",
-            "owner": "d-xo",
-            "repo": "weird-erc20",
-            "stars": 1707
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sigp/solidity-security-blog",
-          "description": "Comprehensive list of known attack vectors and common anti-patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-23T12:06:25Z",
-            "owner": "sigp",
-            "repo": "solidity-security-blog",
-            "stars": 1522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crytic/awesome-ethereum-security",
-          "description": "Curated list of Ethereum security references, guidance, tools, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-20T12:39:26Z",
-            "owner": "crytic",
-            "repo": "awesome-ethereum-security",
-            "stars": 1485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "securing/SCSVS",
-          "description": "Smart Contract Security Verification Standard.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-02-07T06:03:20Z",
-            "owner": "securing",
-            "repo": "SCSVS",
-            "stars": 629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OriginProtocol/security",
-          "description": "Materials related to security: docs, checklists, processes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-06-24T07:22:44Z",
-            "owner": "OriginProtocol",
-            "repo": "security",
-            "stars": 205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crypto-Virus/cream-finance-exploit-example",
-          "description": "Example implementation of the Cream Finance flashloan exploit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2021-10-30T02:04:50Z",
-            "owner": "Crypto-Virus",
-            "repo": "cream-finance-exploit-example",
-            "stars": 118
-          }
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Trail of Bits",
-          "description": "Public security audits by the Trail of Bits Team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T21:45:50Z",
-            "owner": "trailofbits",
-            "repo": "publications",
-            "stars": 1879
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpearbitDAO",
-          "description": "Public security audits by the SpearbitDAO Team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-12T13:32:41Z",
-            "owner": "spearbit",
-            "repo": "portfolio",
-            "stars": 576
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixBytes",
-          "description": "Public security audits by the MixBytes Team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T14:02:00Z",
-            "owner": "mixbytes",
-            "repo": "audits_public",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arbitrary Execution",
-          "description": "Public security audits by the Arbitrary Execution Team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-19T13:15:59Z",
-            "owner": "arbitraryexecution",
-            "repo": "publications",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Audits"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fravoll/solidity-patterns",
-          "description": "Collection of patterns and best practices for smart contract development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-04-19T08:52:31Z",
-            "owner": "fravoll",
-            "repo": "solidity-patterns",
-            "stars": 3323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libevm/subway",
-          "description": "Practical example of how to perform sandwich attacks on Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-08-02T11:30:53Z",
-            "owner": "libevm",
-            "repo": "subway",
-            "stars": 2207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flashbots/simple-arbitrage",
-          "description": "Example arbitrage bot using Flashbots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-02-03T18:32:10Z",
-            "owner": "flashbots",
-            "repo": "simple-arbitrage",
-            "stars": 2112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "m1guelpf/lil-web3",
-          "description": "Simple, intentionally-limited versions of web3 protocols & apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2022-11-20T02:37:04Z",
-            "owner": "m1guelpf",
-            "repo": "lil-web3",
-            "stars": 1170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cyrusadkisson/solidity-baby-steps",
-          "description": "Comprehensive collection of contract examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-11-01T13:06:32Z",
-            "owner": "cyrusadkisson",
-            "repo": "solidity-baby-steps",
-            "stars": 952
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pedrobergamini/flashloaner-contract",
-          "description": "Smart contracts that operate arbitrages between Sushiswap and Uniswap.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-12-04T16:28:53Z",
-            "owner": "pedrobergamini",
-            "repo": "flashloaner-contract",
-            "stars": 546
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "raineorshine/solidity-by-example",
-          "description": "Collection of short yet fully functional contracts that demonstrate language features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-12-10T19:28:37Z",
-            "owner": "raineorshine",
-            "repo": "solidity-by-example",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "miguelmota/solidity-idiosyncrasies",
-          "description": "Common gotchas, pitfalls, limitations, and idiosyncrasies.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2020-11-30T02:11:40Z",
-            "owner": "miguelmota",
-            "repo": "solidity-idiosyncrasies",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alephao/solidity-benchmarks",
-          "description": "Benchmarks of popular implementations of ERC standards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-07-28T21:46:37Z",
-            "owner": "alephao",
-            "repo": "solidity-benchmarks",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lsaether/bonding-curves",
-          "description": "Smart contracts for bonding curves (aka curve bonded tokens).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2018-11-12T08:14:45Z",
-            "owner": "lsaether",
-            "repo": "bonding-curves",
-            "stars": 93
-          }
-        }
-      ],
-      "title": "Educational"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Uniswap/uniswap-v3-core",
-          "description": "Core smart contracts of Uniswap v3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T19:37:39Z",
-            "owner": "Uniswap",
-            "repo": "v3-core",
-            "stars": 5022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compound-finance/compound-protocol",
-          "description": "Compound Protocol contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-10T04:19:47Z",
-            "owner": "compound-finance",
-            "repo": "compound-protocol",
-            "stars": 2038
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sushiswap/sushiswap",
-          "description": "Sushiswap smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:55:39Z",
-            "owner": "sushi-labs",
-            "repo": "sushiswap",
-            "stars": 1943
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bancorprotocol/contract-solidity",
-          "description": "Bancor Protocol contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-29T09:54:35Z",
-            "owner": "bancorprotocol",
-            "repo": "contracts-solidity",
-            "stars": 895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ensdomains/ens-contracts",
-          "description": "Ethereum Name Service (ENS) contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-31T10:37:26Z",
-            "owner": "ensdomains",
-            "repo": "ens-contracts",
-            "stars": 724
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OlympusDAO/olympus-contracts",
-          "description": "OlympusDAO contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-18T09:14:58Z",
-            "owner": "OlympusDAO",
-            "repo": "olympus-contracts",
-            "stars": 720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "andrecronje/rarity",
-          "description": "D20srd reference implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2022-05-19T09:12:51Z",
-            "owner": "andrecronje",
-            "repo": "rarity",
-            "stars": 600
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graphprotocol/contracts",
-          "description": "Graph Protocol Contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-04T17:02:12Z",
-            "owner": "graphprotocol",
-            "repo": "contracts",
-            "stars": 372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trusttoken/smart-contracts",
-          "description": "TrustToken smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-17T15:23:59Z",
-            "owner": "trusttoken",
-            "repo": "contracts-pre22",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wyvernprotocol/wyvern-v3",
-          "description": "Core smart contracts for Wyvern v3, a decentralized digital asset exchange protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-29T20:27:56Z",
-            "owner": "wyvernprotocol",
-            "repo": "wyvern-v3",
-            "stars": 295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dharma-eng/dharma-smart-wallet",
-          "description": "Smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-01-04T12:38:38Z",
-            "owner": "dharma-eng",
-            "repo": "dharma-smart-wallet",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Abracadabra-money/magic-internet-money",
-          "description": "Magic Internet Money (MIM) contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2022-11-18T06:03:03Z",
-            "owner": "Abracadabra-money",
-            "repo": "magic-internet-money",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "axieinfinity/ronin-smart-contracts",
-          "description": "Axie Infinity Ronin contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-05-11T12:48:11Z",
-            "owner": "axieinfinity",
-            "repo": "ronin-smart-contracts",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smartcontractkit/LinkToken",
-          "description": "LINK token contracts for the Chainlink Network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-11-11T08:54:06Z",
-            "owner": "smartcontractkit",
-            "repo": "LinkToken",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sushiswap/kashi-lending",
-          "description": "Kashi Lending platform contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-10-25T17:57:57Z",
-            "owner": "sushiswap",
-            "repo": "kashi-lending",
-            "stars": 83
-          }
-        }
-      ],
-      "title": "Deployed on Ethereum Mainnet"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "austintgriffith/scaffold-eth",
-          "description": "GitHub template providing an Ethereum dev stack focused on fast product iterations.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2024-06-04T15:20:23Z",
-            "owner": "scaffold-eth",
-            "repo": "scaffold-eth",
-            "stars": 9041
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum-boilerplate/ethereum-boilerplate",
-          "description": "React components and hooks to build dApps fast without running your own backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-19T14:27:22Z",
-            "owner": "ethereum-boilerplate",
-            "repo": "ethereum-boilerplate",
-            "stars": 4139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "paulrberg/solidity-template",
-          "description": "GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-03T17:22:01Z",
-            "owner": "PaulRBerg",
-            "repo": "hardhat-template",
-            "stars": 1971
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wighawag/template-ethereum-contracts",
-          "description": "Template to develop smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-05T08:05:19Z",
-            "owner": "wighawag",
-            "repo": "template-ethereum-contracts",
-            "stars": 532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gakonst/dapptools-template",
-          "description": "Forkable template to get you started with Dapp Tools.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2024-02-16T21:57:19Z",
-            "owner": "foundry-rs",
-            "repo": "forge-template",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rhlsthrm/typescript-solidity-dev-starter-kit",
-          "description": "Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-04T05:58:22Z",
-            "owner": "rhlsthrm",
-            "repo": "typescript-solidity-dev-starter-kit",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomhirst/solidity-nextjs-starter",
-          "description": "Full-stack dApp starter built with Next.js (React).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-04T11:04:06Z",
-            "owner": "tomhirst",
-            "repo": "solidity-nextjs-starter",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "transmissions11/foundry-template",
-          "description": "Streamlined template for getting started with Foundry and Solmate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-01-19T19:07:13Z",
-            "owner": "transmissions11",
-            "repo": "foundry-template",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodeFactoryIo/solidity-node-docker-starter",
-          "description": "GitHub template with Docker containers for building dApps with Truffle and Node.js as a backend server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-08-27T22:51:33Z",
-            "owner": "NodeFactoryIo",
-            "repo": "solidity-node-docker-starter",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZumZoom/solidity-template",
-          "description": "Hardhat template with preconfigured GitHub Actions and Coveralls support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-10T15:00:57Z",
-            "owner": "ZumZoom",
-            "repo": "solidity-template",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Templates"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenZeppelin/ethernaut",
-          "description": "Web3 wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-15T09:00:55Z",
-            "owner": "OpenZeppelin",
-            "repo": "ethernaut",
-            "stars": 2327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenZeppelin/damn-vulnerable-defi",
-          "description": "Set of challenges to hack DeFi implementations on Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-07-25T14:03:11Z",
-            "owner": "OpenZeppelin",
-            "repo": "damn-vulnerable-defi",
-            "stars": 753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity-Challenges",
-          "description": "Offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios. Contributors are welcome to add new challenges.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-01-21T10:27:19Z",
-            "owner": "passandscore",
-            "repo": "solidity-challenges",
-            "stars": 77
-          }
-        }
-      ],
-      "title": "Practice"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -922,8 +994,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-18T14:18:10Z",
+            "last_commit": "2026-08-19T10:36:28Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27219
@@ -936,11 +1009,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387031101,
             "language": "Solidity",
             "last_commit": "2025-07-21T22:24:39Z",
             "owner": "transmissions11",
             "repo": "solmate",
-            "stars": 4288
+            "stars": 4287
           }
         },
         {
@@ -950,11 +1024,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340473970,
             "language": "TypeScript",
             "last_commit": "2026-07-30T19:37:42Z",
             "owner": "Uniswap",
             "repo": "v3-periphery",
-            "stars": 1333
+            "stars": 1332
           }
         },
         {
@@ -964,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226959477,
             "language": "Solidity",
             "last_commit": "2026-07-22T02:37:59Z",
             "owner": "Uniswap",
@@ -978,8 +1054,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141754460,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T14:19:06Z",
+            "last_commit": "2026-08-19T08:12:32Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
             "stars": 1172
@@ -992,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56393057,
             "language": "Solidity",
             "last_commit": "2023-08-21T09:57:36Z",
             "owner": "Arachnid",
@@ -1006,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407328947,
             "language": "Solidity",
             "last_commit": "2026-05-25T11:15:34Z",
             "owner": "thirdweb-dev",
@@ -1020,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132498941,
             "language": "Solidity",
             "last_commit": "2022-08-10T08:06:18Z",
             "owner": "nibbstack",
@@ -1034,6 +1114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254207733,
             "language": "Solidity",
             "last_commit": "2024-12-09T16:57:10Z",
             "owner": "studydefi",
@@ -1048,6 +1129,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22730041,
             "language": "JavaScript",
             "last_commit": "2024-06-14T22:35:51Z",
             "owner": "ethereum",
@@ -1062,11 +1144,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351127674,
             "language": "Solidity",
             "last_commit": "2026-08-14T16:33:52Z",
             "owner": "PaulRBerg",
             "repo": "prb-math",
-            "stars": 1007
+            "stars": 1006
           }
         },
         {
@@ -1076,6 +1159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141097234,
             "language": "TypeScript",
             "last_commit": "2023-11-22T21:36:56Z",
             "owner": "TrueFiEng",
@@ -1090,6 +1174,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 151355420,
             "language": "Solidity",
             "last_commit": "2023-03-26T08:19:51Z",
             "owner": "sky-ecosystem",
@@ -1104,6 +1189,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 292302152,
             "language": "TypeScript",
             "last_commit": "2023-06-23T16:37:16Z",
             "owner": "Uniswap",
@@ -1118,6 +1204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42525362,
             "language": "Nix",
             "last_commit": "2022-03-12T13:23:41Z",
             "owner": "dapphub",
@@ -1132,6 +1219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120467565,
             "language": "Solidity",
             "last_commit": "2022-08-20T20:46:59Z",
             "owner": "optionality",
@@ -1146,6 +1234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302217459,
             "language": "TypeScript",
             "last_commit": "2026-06-15T06:20:33Z",
             "owner": "solidstate-network",
@@ -1160,6 +1249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419485990,
             "language": "Solidity",
             "last_commit": "2026-08-18T09:52:24Z",
             "owner": "pcaversaccio",
@@ -1174,6 +1264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97418759,
             "language": "JavaScript",
             "last_commit": "2023-03-01T14:02:47Z",
             "owner": "modular-network",
@@ -1188,6 +1279,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 246760170,
             "language": "TypeScript",
             "last_commit": "2025-07-22T13:42:38Z",
             "owner": "Keydonix",
@@ -1202,6 +1294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151916500,
             "language": "JavaScript",
             "last_commit": "2024-03-12T19:01:23Z",
             "owner": "wbobeirne",
@@ -1216,6 +1309,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130585751,
             "language": "JavaScript",
             "last_commit": "2023-10-26T14:49:51Z",
             "owner": "rkalis",
@@ -1230,6 +1324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423275197,
             "language": "Solidity",
             "last_commit": "2023-03-09T04:22:15Z",
             "owner": "mds1",
@@ -1244,6 +1339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190376567,
             "language": "Solidity",
             "last_commit": "2023-12-19T19:21:46Z",
             "owner": "0age",
@@ -1258,6 +1354,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 395377927,
             "language": "TypeScript",
             "last_commit": "2023-03-29T13:30:42Z",
             "owner": "solana-labs",
@@ -1272,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430131637,
             "language": "Solidity",
             "last_commit": "2022-11-17T20:32:10Z",
             "owner": "attestate",
@@ -1286,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284350044,
             "language": "TypeScript",
             "last_commit": "2026-06-07T08:30:01Z",
             "owner": "solidstate-network",
@@ -1300,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398331764,
             "language": "Solidity",
             "last_commit": "2025-06-25T09:33:26Z",
             "owner": "maple-labs",
@@ -1314,6 +1414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78852840,
             "language": null,
             "last_commit": "2018-08-10T06:31:17Z",
             "owner": "alianse777",
@@ -1328,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487090777,
             "language": "Solidity",
             "last_commit": "2024-02-01T10:29:38Z",
             "owner": "partylikeits1983",
@@ -1342,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198528216,
             "language": "Solidity",
             "last_commit": "2023-04-16T06:43:08Z",
             "owner": "0age",
@@ -1356,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425829222,
             "language": "Solidity",
             "last_commit": "2021-12-22T18:12:00Z",
             "owner": "alexvansande",
@@ -1370,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442070066,
             "language": "Solidity",
             "last_commit": "2023-07-25T22:51:44Z",
             "owner": "NTA-Capital",
@@ -1384,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382158918,
             "language": "TypeScript",
             "last_commit": "2024-01-24T09:45:46Z",
             "owner": "dmihal",
@@ -1398,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118781172,
             "language": "Solidity",
             "last_commit": "2021-11-23T03:37:03Z",
             "owner": "mattdf",
@@ -1412,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444259662,
             "language": "Solidity",
             "last_commit": "2023-04-17T17:19:10Z",
             "owner": "devstein",
@@ -1426,6 +1534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402189405,
             "language": "JavaScript",
             "last_commit": "2021-09-02T01:23:12Z",
             "owner": "moodlezoup",
@@ -1440,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118892221,
             "language": "JavaScript",
             "last_commit": "2018-01-29T14:07:58Z",
             "owner": "Shimmi",
@@ -1454,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 874283218,
             "language": "JavaScript",
             "last_commit": "2026-08-17T20:11:17Z",
             "owner": "MerkleBlue",
@@ -1468,6 +1579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154774039,
             "language": "Solidity",
             "last_commit": "2023-04-16T06:34:40Z",
             "owner": "0age",
@@ -1479,867 +1591,931 @@
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Truffle",
+              "description": "Development environment, testing framework, and asset pipeline for Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38267641,
+                "language": "TypeScript",
+                "last_commit": "2024-04-22T08:47:19Z",
+                "owner": "ConsenSys-archive",
+                "repo": "truffle",
+                "stars": 13915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "foundry-rs/foundry",
+              "description": "Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404320053,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:45:15Z",
+                "owner": "foundry-rs",
+                "repo": "foundry",
+                "stars": 10568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dapphub/dapptools",
+              "description": "Command-line-friendly tools for blockchain development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137069125,
+                "language": "Haskell",
+                "last_commit": "2025-02-25T19:28:22Z",
+                "owner": "dapphub",
+                "repo": "dapptools",
+                "stars": 2122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Contract Sanctuary",
+              "description": "Home for Ethereum smart contracts, with verified contracts from Etherscan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137944558,
+                "language": "Python",
+                "last_commit": "2026-07-29T15:50:33Z",
+                "owner": "tintinweb",
+                "repo": "smart-contract-sanctuary",
+                "stars": 1593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dethcrypto/ethereum-code-viewer",
+              "description": "View the source of deployed Ethereum contracts in VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438402257,
+                "language": "TypeScript",
+                "last_commit": "2025-09-30T08:02:35Z",
+                "owner": "dethcrypto",
+                "repo": "dethcode",
+                "stars": 1371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "naddison36/sol2uml",
+              "description": "Unified Modeling Language (UML) class diagram generator for smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168141555,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T06:34:50Z",
+                "owner": "naddison36",
+                "repo": "sol2uml",
+                "stars": 1315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solgraph",
+              "description": "Visualize control flows for smart contract security analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62669862,
+                "language": "JavaScript",
+                "last_commit": "2022-12-04T15:07:40Z",
+                "owner": "raineorshine",
+                "repo": "solgraph",
+                "stars": 1028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tintinweb/solidity-shell",
+              "description": "Interactive shell with lightweight session recording.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401311920,
+                "language": "JavaScript",
+                "last_commit": "2023-05-28T13:40:11Z",
+                "owner": "tintinweb",
+                "repo": "solidity-shell",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solidity-docgen",
+              "description": "Documentation generator for smart contract projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116612696,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T20:57:23Z",
+                "owner": "OpenZeppelin",
+                "repo": "solidity-docgen",
+                "stars": 461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weiroll/weiroll",
+              "description": "Simple and efficient operation-chaining/scripting language for the EVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376268978,
+                "language": "Solidity",
+                "last_commit": "2026-04-25T21:28:22Z",
+                "owner": "weiroll",
+                "repo": "weiroll",
+                "stars": 444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "raineorshine/solidity-repl",
+              "description": "REPL CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61008026,
+                "language": "JavaScript",
+                "last_commit": "2021-08-18T01:31:14Z",
+                "owner": "raineorshine",
+                "repo": "solidity-repl",
+                "stars": 393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EthereumStudio",
+              "description": "Standalone desktop IDE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329842073,
+                "language": "JavaScript",
+                "last_commit": "2022-08-29T09:32:23Z",
+                "owner": "ObsidianLabs",
+                "repo": "Black-IDE",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anish-Agnihotri/MultiFaucet",
+              "description": "MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421272424,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T09:34:03Z",
+                "owner": "Anish-Agnihotri",
+                "repo": "MultiFaucet",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sol-merger",
+              "description": "Merge all imports into a single file for contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102117695,
+                "language": "TypeScript",
+                "last_commit": "2025-04-03T20:51:09Z",
+                "owner": "RyuuGan",
+                "repo": "sol-merger",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "instant-dapp-ide",
+              "description": "Complete dApp development environment as a Docker image you can run from the command line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49766726,
+                "language": "Shell",
+                "last_commit": "2017-09-01T09:51:01Z",
+                "owner": "dominicwilliams",
+                "repo": "instant-dapp-ide",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIF",
+              "description": "Code generation from the AST, analyze and instrument source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184885288,
+                "language": "C++",
+                "last_commit": "2020-06-27T15:57:58Z",
+                "owner": "chao-peng",
+                "repo": "SIF",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dapp-scratch",
+              "description": "CLI for generating JavaScript modules from contracts for decentralized apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110001536,
+                "language": "JavaScript",
+                "last_commit": "2018-07-13T08:37:45Z",
+                "owner": "okwme",
+                "repo": "dapp-scratch",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "create-truffle-dapp",
+              "description": "CLI to create and deploy Truffle projects with no configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 144521043,
+                "language": "JavaScript",
+                "last_commit": "2019-04-27T14:56:11Z",
+                "owner": "clemlak",
+                "repo": "create-truffle-dapp",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eagr/sol-repl",
+              "description": "Lightweight, feature-rich REPL for instant feedback.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479017509,
+                "language": "JavaScript",
+                "last_commit": "2022-05-07T15:20:31Z",
+                "owner": "eagr",
+                "repo": "sol-repl",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "protofire/solhint",
+              "description": "Linter that provides security, style guide, and best practice rules for smart contract validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107120334,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T13:28:54Z",
+                "owner": "protofire",
+                "repo": "solhint",
+                "stars": 1125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sc-forks/solidity-coverage",
+              "description": "Code coverage tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89956848,
+                "language": "JavaScript",
+                "last_commit": "2025-12-11T19:32:00Z",
+                "owner": "sc-forks",
+                "repo": "solidity-coverage",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "duaraghav8/Ethlint",
+              "description": "Linter to identify and fix style & security issues in smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65023439,
+                "language": "JavaScript",
+                "last_commit": "2025-01-03T12:12:22Z",
+                "owner": "duaraghav8",
+                "repo": "Ethlint",
+                "stars": 921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crytic/solc-select",
+              "description": "CLI to quickly switch between compiler versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165721029,
+                "language": "Python",
+                "last_commit": "2026-06-04T08:52:29Z",
+                "owner": "crytic",
+                "repo": "solc-select",
+                "stars": 816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prettier-solidity/prettier-plugin-solidity",
+              "description": "Prettier plugin for automatically formatting your code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133534163,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T04:19:46Z",
+                "owner": "prettier-solidity",
+                "repo": "prettier-plugin-solidity",
+                "stars": 751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tenderly/tenderly-cli",
+              "description": "Speed up your development with error stack traces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156588271,
+                "language": "Go",
+                "last_commit": "2026-08-05T12:27:38Z",
+                "owner": "Tenderly",
+                "repo": "tenderly-cli",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rkalis/truffle-plugin-verify",
+              "description": "Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 176710686,
+                "language": "TypeScript",
+                "last_commit": "2023-11-20T14:08:58Z",
+                "owner": "rkalis",
+                "repo": "truffle-plugin-verify",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tintinweb/solgrep",
+              "description": "Scriptable semantic grep utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429887734,
+                "language": "JavaScript",
+                "last_commit": "2024-08-08T10:53:54Z",
+                "owner": "tintinweb",
+                "repo": "solgrep",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ItsNickBarry/hardhat-contract-sizer",
+              "description": "Output contract sizes with Hardhat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289771629,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T08:30:10Z",
+                "owner": "solidstate-network",
+                "repo": "hardhat-contract-sizer",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cleanunicorn/abi2signature",
+              "description": "Use the ABI of a smart contract to find out the function signatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113828344,
+                "language": "JavaScript",
+                "last_commit": "2019-01-07T20:29:56Z",
+                "owner": "cleanunicorn",
+                "repo": "abi2signature",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aniket-Engg/sol-profiler",
+              "description": "CLI tool to list and store smart contract method attributes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157360313,
+                "language": "Solidity",
+                "last_commit": "2026-08-13T09:55:02Z",
+                "owner": "Aniket-Engg",
+                "repo": "sol-profiler",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aniket-Engg/sol-verifier",
+              "description": "Verify smart contracts on Etherscan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161603389,
+                "language": "JavaScript",
+                "last_commit": "2023-03-03T11:28:36Z",
+                "owner": "Aniket-Engg",
+                "repo": "sol-verifier",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sambacha/prettier-config-solidity",
+              "description": "Prettier config optimized to reduce AST churn and conform to the language spec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312459708,
+                "language": "Solidity",
+                "last_commit": "2022-12-19T16:04:13Z",
+                "owner": "sambacha",
+                "repo": "prettier-config-solidity",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiverseSolutions/Diverse-Eth-Calculator",
+              "description": "Website with Ethereum unit conversion & utility components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482305438,
+                "language": "JavaScript",
+                "last_commit": "2022-05-07T16:36:01Z",
+                "owner": "DiverseSolutions",
+                "repo": "Diverse-Eth-Calculator",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slither",
+              "description": "Static analyzer with support for many common bug types, including visualization tools for security-relevant information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147583941,
+                "language": "Python",
+                "last_commit": "2026-08-12T22:56:04Z",
+                "owner": "crytic",
+                "repo": "slither",
+                "stars": 6345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mythril",
+              "description": "Security analysis tool for smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103890505,
+                "language": "Python",
+                "last_commit": "2026-04-27T04:13:25Z",
+                "owner": "ConsenSysDiligence",
+                "repo": "mythril",
+                "stars": 4262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manticore",
+              "description": "Detects many common bug types and can prove correctness properties with symbolic execution.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 81612762,
+                "language": "Python",
+                "last_commit": "2026-06-24T16:28:22Z",
+                "owner": "trailofbits",
+                "repo": "manticore",
+                "stars": 3859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Echidna",
+              "description": "Define properties for your smart contract then use fuzzing to catch security bugs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101585932,
+                "language": "Haskell",
+                "last_commit": "2026-08-14T23:14:32Z",
+                "owner": "crytic",
+                "repo": "echidna",
+                "stars": 3169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum/sourcify",
+              "description": "Re-compiler for verifying that bytecode corresponds to specific source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183183290,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:40:18Z",
+                "owner": "argotorg",
+                "repo": "sourcify",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aderyn",
+              "description": "Rust-based open-source static analyzer for finding vulnerabilities in smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683427841,
+                "language": "Rust",
+                "last_commit": "2026-08-16T13:12:04Z",
+                "owner": "Cyfrin",
+                "repo": "aderyn",
+                "stars": 793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eth-sri/securify2",
+              "description": "Tool for analyzing smart contracts for vulnerabilities and insecure coding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235597819,
+                "language": "Solidity",
+                "last_commit": "2025-05-25T17:35:38Z",
+                "owner": "eth-sri",
+                "repo": "securify2",
+                "stars": 636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "a16z/metamorphic-contract-detector",
+              "description": "Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 466639401,
+                "language": "Python",
+                "last_commit": "2022-06-24T04:57:31Z",
+                "owner": "a16z",
+                "repo": "metamorphic-contract-detector",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audit"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Truffle",
-          "description": "Development environment, testing framework, and asset pipeline for Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-04-22T08:47:19Z",
-            "owner": "ConsenSys-archive",
-            "repo": "truffle",
-            "stars": 13915
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "solc-js",
+              "description": "JavaScript bindings for the compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55413578,
+                "language": "TypeScript",
+                "last_commit": "2026-07-23T21:32:46Z",
+                "owner": "argotorg",
+                "repo": "solc-js",
+                "stars": 1507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solidity-parser",
+              "description": "Parser built in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94512608,
+                "language": "JavaScript",
+                "last_commit": "2020-09-05T00:58:32Z",
+                "owner": "federicobond",
+                "repo": "solidity-parser-antlr",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deno-web3/solc",
+              "description": "Compiler bindings for Deno.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409867419,
+                "language": "TypeScript",
+                "last_commit": "2025-02-27T21:01:59Z",
+                "owner": "deno-web3",
+                "repo": "solc",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sulk",
+              "description": "Configurable contract compilation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99910778,
+                "language": "JavaScript",
+                "last_commit": "2018-03-23T12:20:02Z",
+                "owner": "lukehedger",
+                "repo": "sulk",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
         },
         {
-          "node_type": "item",
-          "title": "foundry-rs/foundry",
-          "description": "Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T19:07:28Z",
-            "owner": "foundry-rs",
-            "repo": "foundry",
-            "stars": 10570
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TypeChain",
+              "description": "TypeScript bindings for Ethereum smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102210005,
+                "language": "TypeScript",
+                "last_commit": "2024-07-10T10:41:35Z",
+                "owner": "dethcrypto",
+                "repo": "TypeChain",
+                "stars": 2793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Soltsice",
+              "description": "Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101793925,
+                "language": "TypeScript",
+                "last_commit": "2019-03-31T16:46:39Z",
+                "owner": "Soltsice",
+                "repo": "Soltsice",
+                "stars": 100
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TypeScript"
         },
         {
-          "node_type": "item",
-          "title": "dapphub/dapptools",
-          "description": "Command-line-friendly tools for blockchain development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2025-02-25T19:28:22Z",
-            "owner": "dapphub",
-            "repo": "dapptools",
-            "stars": 2122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contract Sanctuary",
-          "description": "Home for Ethereum smart contracts, with verified contracts from Etherscan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T15:50:33Z",
-            "owner": "tintinweb",
-            "repo": "smart-contract-sanctuary",
-            "stars": 1593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dethcrypto/ethereum-code-viewer",
-          "description": "View the source of deployed Ethereum contracts in VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-30T08:02:35Z",
-            "owner": "dethcrypto",
-            "repo": "dethcode",
-            "stars": 1371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "naddison36/sol2uml",
-          "description": "Unified Modeling Language (UML) class diagram generator for smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-06T06:34:50Z",
-            "owner": "naddison36",
-            "repo": "sol2uml",
-            "stars": 1315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solgraph",
-          "description": "Visualize control flows for smart contract security analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-04T15:07:40Z",
-            "owner": "raineorshine",
-            "repo": "solgraph",
-            "stars": 1028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tintinweb/solidity-shell",
-          "description": "Interactive shell with lightweight session recording.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-28T13:40:11Z",
-            "owner": "tintinweb",
-            "repo": "solidity-shell",
-            "stars": 541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solidity-docgen",
-          "description": "Documentation generator for smart contract projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T20:57:23Z",
-            "owner": "OpenZeppelin",
-            "repo": "solidity-docgen",
-            "stars": 461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weiroll/weiroll",
-          "description": "Simple and efficient operation-chaining/scripting language for the EVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-04-25T21:28:22Z",
-            "owner": "weiroll",
-            "repo": "weiroll",
-            "stars": 444
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "raineorshine/solidity-repl",
-          "description": "REPL CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-18T01:31:14Z",
-            "owner": "raineorshine",
-            "repo": "solidity-repl",
-            "stars": 393
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EthereumStudio",
-          "description": "Standalone desktop IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-29T09:32:23Z",
-            "owner": "ObsidianLabs",
-            "repo": "Black-IDE",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anish-Agnihotri/MultiFaucet",
-          "description": "MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T09:34:03Z",
-            "owner": "Anish-Agnihotri",
-            "repo": "MultiFaucet",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sol-merger",
-          "description": "Merge all imports into a single file for contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-03T20:51:09Z",
-            "owner": "RyuuGan",
-            "repo": "sol-merger",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "instant-dapp-ide",
-          "description": "Complete dApp development environment as a Docker image you can run from the command line.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-09-01T09:51:01Z",
-            "owner": "dominicwilliams",
-            "repo": "instant-dapp-ide",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SIF",
-          "description": "Code generation from the AST, analyze and instrument source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-06-27T15:57:58Z",
-            "owner": "chao-peng",
-            "repo": "SIF",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dapp-scratch",
-          "description": "CLI for generating JavaScript modules from contracts for decentralized apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-07-13T08:37:45Z",
-            "owner": "okwme",
-            "repo": "dapp-scratch",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "create-truffle-dapp",
-          "description": "CLI to create and deploy Truffle projects with no configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-04-27T14:56:11Z",
-            "owner": "clemlak",
-            "repo": "create-truffle-dapp",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eagr/sol-repl",
-          "description": "Lightweight, feature-rich REPL for instant feedback.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-07T15:20:31Z",
-            "owner": "eagr",
-            "repo": "sol-repl",
-            "stars": 4
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hyperledger-labs/solang",
+              "description": "Compiler targeting WASM and BPF, written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163517929,
+                "language": "Rust",
+                "last_commit": "2026-08-15T05:54:45Z",
+                "owner": "hyperledger-solang",
+                "repo": "solang",
+                "stars": 1382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-ethereum/ethabi",
+              "description": "Encode and decode smart contract invocations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57925247,
+                "language": "Rust",
+                "last_commit": "2023-08-16T17:41:09Z",
+                "owner": "rust-ethereum",
+                "repo": "ethabi",
+                "stars": 523
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "protofire/solhint",
-          "description": "Linter that provides security, style guide, and best practice rules for smart contract validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T13:28:54Z",
-            "owner": "protofire",
-            "repo": "solhint",
-            "stars": 1125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sc-forks/solidity-coverage",
-          "description": "Code coverage tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-11T19:32:00Z",
-            "owner": "sc-forks",
-            "repo": "solidity-coverage",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "duaraghav8/Ethlint",
-          "description": "Linter to identify and fix style & security issues in smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-03T12:12:22Z",
-            "owner": "duaraghav8",
-            "repo": "Ethlint",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crytic/solc-select",
-          "description": "CLI to quickly switch between compiler versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-04T08:52:29Z",
-            "owner": "crytic",
-            "repo": "solc-select",
-            "stars": 815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prettier-solidity/prettier-plugin-solidity",
-          "description": "Prettier plugin for automatically formatting your code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T04:19:46Z",
-            "owner": "prettier-solidity",
-            "repo": "prettier-plugin-solidity",
-            "stars": 751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tenderly/tenderly-cli",
-          "description": "Speed up your development with error stack traces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-05T12:27:38Z",
-            "owner": "Tenderly",
-            "repo": "tenderly-cli",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rkalis/truffle-plugin-verify",
-          "description": "Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-11-20T14:08:58Z",
-            "owner": "rkalis",
-            "repo": "truffle-plugin-verify",
-            "stars": 501
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tintinweb/solgrep",
-          "description": "Scriptable semantic grep utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-08T10:53:54Z",
-            "owner": "tintinweb",
-            "repo": "solgrep",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ItsNickBarry/hardhat-contract-sizer",
-          "description": "Output contract sizes with Hardhat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-07T08:30:10Z",
-            "owner": "solidstate-network",
-            "repo": "hardhat-contract-sizer",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cleanunicorn/abi2signature",
-          "description": "Use the ABI of a smart contract to find out the function signatures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-07T20:29:56Z",
-            "owner": "cleanunicorn",
-            "repo": "abi2signature",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aniket-Engg/sol-profiler",
-          "description": "CLI tool to list and store smart contract method attributes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-13T09:55:02Z",
-            "owner": "Aniket-Engg",
-            "repo": "sol-profiler",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aniket-Engg/sol-verifier",
-          "description": "Verify smart contracts on Etherscan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-03T11:28:36Z",
-            "owner": "Aniket-Engg",
-            "repo": "sol-verifier",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sambacha/prettier-config-solidity",
-          "description": "Prettier config optimized to reduce AST churn and conform to the language spec.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2022-12-19T16:04:13Z",
-            "owner": "sambacha",
-            "repo": "prettier-config-solidity",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DiverseSolutions/Diverse-Eth-Calculator",
-          "description": "Website with Ethereum unit conversion & utility components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-07T16:36:01Z",
-            "owner": "DiverseSolutions",
-            "repo": "Diverse-Eth-Calculator",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Utility"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Slither",
-          "description": "Static analyzer with support for many common bug types, including visualization tools for security-relevant information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T22:56:04Z",
-            "owner": "crytic",
-            "repo": "slither",
-            "stars": 6345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mythril",
-          "description": "Security analysis tool for smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-27T04:13:25Z",
-            "owner": "ConsenSysDiligence",
-            "repo": "mythril",
-            "stars": 4263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Manticore",
-          "description": "Detects many common bug types and can prove correctness properties with symbolic execution.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-06-24T16:28:22Z",
-            "owner": "trailofbits",
-            "repo": "manticore",
-            "stars": 3859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Echidna",
-          "description": "Define properties for your smart contract then use fuzzing to catch security bugs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-08-14T23:14:32Z",
-            "owner": "crytic",
-            "repo": "echidna",
-            "stars": 3169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum/sourcify",
-          "description": "Re-compiler for verifying that bytecode corresponds to specific source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:01:34Z",
-            "owner": "argotorg",
-            "repo": "sourcify",
-            "stars": 944
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aderyn",
-          "description": "Rust-based open-source static analyzer for finding vulnerabilities in smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T13:12:04Z",
-            "owner": "Cyfrin",
-            "repo": "aderyn",
-            "stars": 793
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eth-sri/securify2",
-          "description": "Tool for analyzing smart contracts for vulnerabilities and insecure coding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-05-25T17:35:38Z",
-            "owner": "eth-sri",
-            "repo": "securify2",
-            "stars": 636
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "a16z/metamorphic-contract-detector",
-          "description": "Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-06-24T04:57:31Z",
-            "owner": "a16z",
-            "repo": "metamorphic-contract-detector",
-            "stars": 165
-          }
-        }
-      ],
-      "title": "Audit"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "solc-js",
-          "description": "JavaScript bindings for the compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-23T21:32:46Z",
-            "owner": "argotorg",
-            "repo": "solc-js",
-            "stars": 1507
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emacs-solidity",
+              "description": "Language mode for Emacs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28040436,
+                "language": "Emacs Lisp",
+                "last_commit": "2023-06-28T16:37:20Z",
+                "owner": "ethereum",
+                "repo": "emacs-solidity",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "company-solidity",
+              "description": "Autocomplete with company-mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119406767,
+                "language": "Emacs Lisp",
+                "last_commit": "2018-04-07T20:50:56Z",
+                "owner": "ssmolkin1",
+                "repo": "company-solidity",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
         },
         {
-          "node_type": "item",
-          "title": "solidity-parser",
-          "description": "Parser built in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2020-09-05T00:58:32Z",
-            "owner": "federicobond",
-            "repo": "solidity-parser-antlr",
-            "stars": 155
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-solidity",
+              "description": "Vim syntax file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31800035,
+                "language": "Vim script",
+                "last_commit": "2021-05-03T01:11:49Z",
+                "owner": "tomlion",
+                "repo": "vim-solidity",
+                "stars": 493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solidity.vim",
+              "description": "Vim compiler plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120142247,
+                "language": "Vim script",
+                "last_commit": "2018-02-04T20:31:39Z",
+                "owner": "dmdque",
+                "repo": "solidity.vim",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vim"
         },
         {
-          "node_type": "item",
-          "title": "deno-web3/solc",
-          "description": "Compiler bindings for Deno.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-27T21:01:59Z",
-            "owner": "deno-web3",
-            "repo": "solc",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sulk",
-          "description": "Configurable contract compilation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-23T12:20:02Z",
-            "owner": "lukehedger",
-            "repo": "sulk",
-            "stars": 9
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vscode-solidity",
+              "description": "Visual Studio Code language support extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46474204,
+                "language": "TypeScript",
+                "last_commit": "2026-05-28T05:22:32Z",
+                "owner": "juanfranblanco",
+                "repo": "vscode-solidity",
+                "stars": 958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConsenSys/vscode-solidity-auditor",
+              "description": "Language support and visual security auditor for Visual Studio Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169789700,
+                "language": "JavaScript",
+                "last_commit": "2024-06-24T13:23:26Z",
+                "owner": "ConsenSysDiligence",
+                "repo": "vscode-solidity-auditor",
+                "stars": 599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sol-profiler-vscode",
+              "description": "Visual Studio Code extension for generating and storing smart contract method profiles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171808835,
+                "language": "TypeScript",
+                "last_commit": "2022-12-08T13:52:35Z",
+                "owner": "Aniket-Engg",
+                "repo": "sol-profiler-vscode",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "👉 For a comprehensive list, see results for \"Solidity\" on Visual Studio Marketplace.",
+          "node_type": "group",
+          "title": "Visual Studio Code"
         }
       ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TypeChain",
-          "description": "TypeScript bindings for Ethereum smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-10T10:41:35Z",
-            "owner": "dethcrypto",
-            "repo": "TypeChain",
-            "stars": 2793
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Soltsice",
-          "description": "Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2019-03-31T16:46:39Z",
-            "owner": "Soltsice",
-            "repo": "Soltsice",
-            "stars": 100
-          }
-        }
-      ],
-      "title": "TypeScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hyperledger-labs/solang",
-          "description": "Compiler targeting WASM and BPF, written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T05:54:45Z",
-            "owner": "hyperledger-solang",
-            "repo": "solang",
-            "stars": 1382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-ethereum/ethabi",
-          "description": "Encode and decode smart contract invocations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-08-16T17:41:09Z",
-            "owner": "rust-ethereum",
-            "repo": "ethabi",
-            "stars": 523
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Editor Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "emacs-solidity",
-          "description": "Language mode for Emacs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2023-06-28T16:37:20Z",
-            "owner": "ethereum",
-            "repo": "emacs-solidity",
-            "stars": 212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "company-solidity",
-          "description": "Autocomplete with company-mode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2018-04-07T20:50:56Z",
-            "owner": "ssmolkin1",
-            "repo": "company-solidity",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Emacs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vim-solidity",
-          "description": "Vim syntax file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2021-05-03T01:11:49Z",
-            "owner": "tomlion",
-            "repo": "vim-solidity",
-            "stars": 493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solidity.vim",
-          "description": "Vim compiler plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2018-02-04T20:31:39Z",
-            "owner": "dmdque",
-            "repo": "solidity.vim",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Vim"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vscode-solidity",
-          "description": "Visual Studio Code language support extension.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-28T05:22:32Z",
-            "owner": "juanfranblanco",
-            "repo": "vscode-solidity",
-            "stars": 958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConsenSys/vscode-solidity-auditor",
-          "description": "Language support and visual security auditor for Visual Studio Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-24T13:23:26Z",
-            "owner": "ConsenSysDiligence",
-            "repo": "vscode-solidity-auditor",
-            "stars": 599
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sol-profiler-vscode",
-          "description": "Visual Studio Code extension for generating and storing smart contract method profiles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-08T13:52:35Z",
-            "owner": "Aniket-Engg",
-            "repo": "sol-profiler-vscode",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Visual Studio Code"
-    },
-    {
-      "description": "To the extent possible under law, Ben Kremer has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:55:07.335Z",
+    "last_updated": "2026-08-19T12:53:15.647Z",
     "original_repository": "bkrem/awesome-solidity",
+    "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
     "enhanced_repository": "enhansome/enhansome-solidity",
     "enhanced_repository_description": null,
