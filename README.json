@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-21T12:58:21Z",
+                "last_commit": "2026-08-24T12:41:36Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25708
+                "stars": 25711
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-23T11:53:30Z",
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14034
+                "stars": 14035
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 501990676,
                 "language": "Solidity",
-                "last_commit": "2026-08-23T03:01:03Z",
+                "last_commit": "2026-08-24T03:06:00Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6752
+                "stars": 6755
               }
             },
             {
@@ -576,7 +576,7 @@
                     "archived": false,
                     "id": 289845062,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T22:43:43Z",
+                    "last_commit": "2026-08-24T12:38:08Z",
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
                     "stars": 1941
@@ -933,6 +933,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Mastering Ethereum",
+              "description": "Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65392364,
+                "language": null,
+                "last_commit": "2026-05-13T14:04:25Z",
+                "owner": "ethereumbook",
+                "repo": "ethereumbook",
+                "stars": 21519
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OpenZeppelin/ethernaut",
               "description": "Web3 wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.",
               "children": [],
@@ -943,7 +965,7 @@
                 "last_commit": "2026-08-15T09:00:55Z",
                 "owner": "OpenZeppelin",
                 "repo": "ethernaut",
-                "stars": 2328
+                "stars": 2327
               }
             },
             {
@@ -996,10 +1018,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-21T14:31:31Z",
+            "last_commit": "2026-08-24T13:47:43Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27230
+            "stars": 27232
           }
         },
         {
@@ -1607,7 +1629,7 @@
                 "last_commit": "2024-04-22T08:47:19Z",
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13916
+                "stars": 13914
               }
             },
             {
@@ -1619,10 +1641,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-23T11:26:23Z",
+                "last_commit": "2026-08-24T13:28:06Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10570
+                "stars": 10571
               }
             },
             {
@@ -2116,7 +2138,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6349
+                "stars": 6350
               }
             },
             {
@@ -2228,6 +2250,28 @@
           "description": null,
           "node_type": "group",
           "title": "Audit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Embark",
+              "description": "Framework that allows you to easily develop and deploy DApps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36172821,
+                "language": "JavaScript",
+                "last_commit": "2024-07-30T14:41:38Z",
+                "owner": "embarklabs",
+                "repo": "embark",
+                "stars": 3770
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DevOps"
         }
       ],
       "title": "Tools"
@@ -2386,6 +2430,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "uml2solidity",
+              "description": "Model smart contracts with UML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49060875,
+                "language": "Java",
+                "last_commit": "2017-08-27T21:42:46Z",
+                "owner": "UrsZeidler",
+                "repo": "uml2solidity",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Eclipse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "emacs-solidity",
               "description": "Language mode for Emacs.",
               "children": [],
@@ -2418,6 +2484,50 @@
           "description": null,
           "node_type": "group",
           "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "intellij-solidity",
+              "description": "Language plugin for IntelliJ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82682728,
+                "language": "Kotlin",
+                "last_commit": "2026-02-14T01:18:11Z",
+                "owner": "intellij-solidity",
+                "repo": "intellij-solidity",
+                "stars": 1098
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IntelliJ"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SublimeEthereum",
+              "description": "Syntax package for Sublime Text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31536536,
+                "language": null,
+                "last_commit": "2025-03-05T21:22:37Z",
+                "owner": "davidhq",
+                "repo": "SublimeEthereum",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sublime"
         },
         {
           "children": [
@@ -2513,7 +2623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:53:14.872Z",
+    "last_updated": "2026-08-24T13:59:42.745Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
