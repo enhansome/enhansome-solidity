@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-24T12:41:36Z",
+                "last_commit": "2026-08-24T16:00:29Z",
                 "owner": "argotorg",
                 "repo": "solidity",
                 "stars": 25711
@@ -84,7 +84,7 @@
                 "last_commit": "2025-10-06T08:50:40Z",
                 "owner": "WTFAcademy",
                 "repo": "WTF-Ethers",
-                "stars": 3525
+                "stars": 3526
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-24T03:06:00Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6755
+                "stars": 6756
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2024-08-20T12:39:26Z",
                 "owner": "crytic",
                 "repo": "awesome-ethereum-security",
-                "stars": 1485
+                "stars": 1486
               }
             },
             {
@@ -345,7 +345,7 @@
                     "archived": false,
                     "id": 102384781,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-14T14:02:00Z",
+                    "last_commit": "2026-08-24T15:54:33Z",
                     "owner": "mixbytes",
                     "repo": "audits_public",
                     "stars": 525
@@ -576,7 +576,7 @@
                     "archived": false,
                     "id": 289845062,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T12:38:08Z",
+                    "last_commit": "2026-08-24T22:09:51Z",
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
                     "stars": 1941
@@ -801,7 +801,7 @@
                 "last_commit": "2024-06-19T14:27:22Z",
                 "owner": "ethereum-boilerplate",
                 "repo": "ethereum-boilerplate",
-                "stars": 4138
+                "stars": 4139
               }
             },
             {
@@ -965,7 +965,7 @@
                 "last_commit": "2026-08-15T09:00:55Z",
                 "owner": "OpenZeppelin",
                 "repo": "ethernaut",
-                "stars": 2327
+                "stars": 2328
               }
             },
             {
@@ -1018,10 +1018,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-24T13:47:43Z",
+            "last_commit": "2026-08-24T14:42:07Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27232
+            "stars": 27231
           }
         },
         {
@@ -1051,7 +1051,7 @@
             "last_commit": "2026-07-30T19:37:42Z",
             "owner": "Uniswap",
             "repo": "v3-periphery",
-            "stars": 1332
+            "stars": 1333
           }
         },
         {
@@ -1273,7 +1273,7 @@
             "archived": false,
             "id": 419485990,
             "language": "Solidity",
-            "last_commit": "2026-08-23T18:47:22Z",
+            "last_commit": "2026-08-24T21:38:02Z",
             "owner": "pcaversaccio",
             "repo": "xdeployer",
             "stars": 445
@@ -1641,10 +1641,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:28:06Z",
+                "last_commit": "2026-08-24T22:05:18Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10571
+                "stars": 10572
               }
             },
             {
@@ -2138,7 +2138,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6350
+                "stars": 6351
               }
             },
             {
@@ -2168,7 +2168,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3859
+                "stars": 3858
               }
             },
             {
@@ -2180,7 +2180,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-14T23:14:32Z",
+                "last_commit": "2026-08-24T21:11:29Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3170
@@ -2623,7 +2623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:42.745Z",
+    "last_updated": "2026-08-24T22:57:03.947Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
