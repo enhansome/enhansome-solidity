@@ -61,16 +61,16 @@
 
 #### Official
 
-* [ethereum/solidity](https://github.com/ethereum/solidity/) ⭐ 25,711 | 🐛 796 | 🌐 C++ | 📅 2026-08-24 - Source code.
+* [ethereum/solidity](https://github.com/ethereum/solidity/) ⭐ 25,712 | 🐛 796 | 🌐 C++ | 📅 2026-08-25 - Source code.
 * [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) ⚠️ Archived - Loose collection of example code.
-* [ethereum/solc-bin](https://github.com/ethereum/solc-bin) ⭐ 431 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-21 - Current and historical builds of the compiler.
+* [ethereum/solc-bin](https://github.com/ethereum/solc-bin) ⭐ 431 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-25 - Current and historical builds of the compiler.
 * [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheat sheet from the official docs.
 * [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Ethereum's Stack Exchange board.
 
 #### Tutorials
 
-* [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) ⭐ 14,035 | 🐛 24 | 🌐 Solidity | 📅 2026-08-23 - Open-source, community-reviewed tutorial in Chinese and English covering intro, advanced, and application topics.
+* [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) ⭐ 14,034 | 🐛 24 | 🌐 Solidity | 📅 2026-08-23 - Open-source, community-reviewed tutorial in Chinese and English covering intro, advanced, and application topics.
 * [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) ⭐ 3,526 | 🐛 34 | 🌐 JavaScript | 📅 2025-10-06 - Open-source, community-reviewed Ethers.js tutorial in Chinese covering intro and advanced topics \[Chinese Language - 中文版].
 * [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) ⭐ 2,064 | 🐛 14 | 🌐 Solidity | 📅 2023-10-15 - Complete guide to getting started, creating your own crypto, ICOs, and deployment.
 * [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,507 | 🐛 0 | 📅 2026-04-05 - Cheat sheet and best practices.
@@ -111,8 +111,8 @@
 
 ##### Audits
 
-* [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) ⭐ 1,879 | 🐛 3 | 🌐 Python | 📅 2026-08-19 - Public security audits by the Trail of Bits Team.
-* [SpearbitDAO](https://github.com/spearbit/portfolio) ⭐ 574 | 🐛 0 | 📅 2026-08-12 - Public security audits by the SpearbitDAO Team.
+* [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) ⭐ 1,878 | 🐛 3 | 🌐 Python | 📅 2026-08-19 - Public security audits by the Trail of Bits Team.
+* [SpearbitDAO](https://github.com/spearbit/portfolio) ⭐ 573 | 🐛 0 | 📅 2026-08-12 - Public security audits by the SpearbitDAO Team.
 * [MixBytes](https://github.com/mixbytes/audits_public) ⭐ 525 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24 - Public security audits by the MixBytes Team.
 * [Arbitrary Execution](https://github.com/arbitraryexecution/publications/tree/main/assessments) ⭐ 5 | 🐛 0 | 📅 2023-09-19 - Public security audits by the Arbitrary Execution Team.
 * [Code4rena](https://code4rena.com/) - Auditors compete to identify and eliminate high-severity bugs before production.
@@ -125,7 +125,7 @@
 
 ##### Educational
 
-* [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,324 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19 - Collection of patterns and best practices for smart contract development.
+* [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,323 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19 - Collection of patterns and best practices for smart contract development.
 * [libevm/subway](https://github.com/libevm/subway) ⭐ 2,207 | 🐛 6 | 🌐 Solidity | 📅 2023-08-02 - Practical example of how to perform sandwich attacks on Ethereum.
 * [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) ⭐ 2,111 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03 - Example arbitrage bot using Flashbots.
 * [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) ⭐ 1,167 | 🐛 6 | 🌐 Solidity | 📅 2022-11-20 - Simple, intentionally-limited versions of web3 protocols & apps.
@@ -145,7 +145,7 @@
 * [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) ⭐ 5,024 | 🐛 83 | 🌐 TypeScript | 📅 2026-07-30 - Core smart contracts of Uniswap v3.
 * [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) ⭐ 2,037 | 🐛 87 | 🌐 TypeScript | 📅 2024-06-10 - Compound Protocol contracts.
 * [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) ⭐ 1,941 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - Sushiswap smart contracts.
-* [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) ⭐ 895 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-29 - Bancor Protocol contracts.
+* [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) ⭐ 896 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-29 - Bancor Protocol contracts.
 * [ensdomains/ens-contracts](https://github.com/ensdomains/ens-contracts) ⭐ 724 | 🐛 55 | 🌐 TypeScript | 📅 2026-07-31 - Ethereum Name Service (ENS) contracts.
 * [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) ⭐ 720 | 🐛 59 | 🌐 Solidity | 📅 2026-08-18 - OlympusDAO contracts.
 * [andrecronje/rarity](https://github.com/andrecronje/rarity) ⭐ 600 | 🐛 48 | 🌐 Solidity | 📅 2022-05-19 - D20srd reference implementation.
@@ -193,7 +193,7 @@
 
 ## Libraries
 
-* [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,231 | 🐛 372 | 🌐 Solidity | 📅 2026-08-24 - Library for secure smart contract development.
+* [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,232 | 🐛 373 | 🌐 Solidity | 📅 2026-08-25 - Library for secure smart contract development.
 * [transmissions11/solmate](https://github.com/transmissions11/solmate) ⭐ 4,288 | 🐛 129 | 🌐 Solidity | 📅 2025-07-21 - Modern, opinionated, and gas-optimized building blocks for smart contract development.
 * [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) ⭐ 1,333 | 🐛 75 | 🌐 TypeScript | 📅 2026-07-30 - Peripheral smart contracts for interacting with Uniswap V3.
 * [Uniswap/uniswap-v2-periphery](https://github.com/Uniswap/uniswap-v2-periphery) ⭐ 1,268 | 🐛 50 | 🌐 Solidity | 📅 2026-07-22 - Peripheral smart contracts for interacting with Uniswap V2.
@@ -239,7 +239,7 @@
 #### General
 
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived - Development environment, testing framework, and asset pipeline for Ethereum.
-* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) ⭐ 10,572 | 🐛 282 | 🌐 Rust | 📅 2026-08-24 - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 289 | 🌐 Rust | 📅 2026-08-25 - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [dapphub/dapptools](https://github.com/dapphub/dapptools) ⭐ 2,121 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 - Command-line-friendly tools for blockchain development.
 * [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) ⭐ 1,593 | 🐛 7 | 🌐 Python | 📅 2026-07-29 - Home for Ethereum smart contracts, with verified contracts from Etherscan.
 * [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) ⭐ 1,370 | 🐛 23 | 🌐 TypeScript | 📅 2025-09-30 - View the source of deployed Ethereum contracts in VS Code.
@@ -273,7 +273,7 @@
 * [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) ⭐ 921 | 🐛 73 | 🌐 JavaScript | 📅 2025-01-03 - Linter to identify and fix style & security issues in smart contracts.
 * [crytic/solc-select](https://github.com/crytic/solc-select) ⭐ 816 | 🐛 21 | 🌐 Python | 📅 2026-06-04 - CLI to quickly switch between compiler versions.
 * [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) ⭐ 752 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18 - Prettier plugin for automatically formatting your code.
-* [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) ⭐ 586 | 🐛 55 | 🌐 Go | 📅 2026-08-05 - Speed up your development with error stack traces.
+* [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) ⭐ 587 | 🐛 55 | 🌐 Go | 📅 2026-08-05 - Speed up your development with error stack traces.
 * [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) ⚠️ Archived - Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.
 * [tintinweb/solgrep](https://github.com/tintinweb/solgrep) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-08 - Scriptable semantic grep utility.
 * [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 - Output contract sizes with Hardhat.
@@ -355,7 +355,7 @@
 
 > 👉 For a comprehensive list, see [results for "Solidity" on Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=solidity\&target=VSCode\&category=All%20categories\&sortBy=Relevance).
 
-* [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28 - Visual Studio Code language support extension.
+* [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) ⭐ 957 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28 - Visual Studio Code language support extension.
 * [ConsenSys/vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor) ⭐ 599 | 🐛 40 | 🌐 JavaScript | 📅 2024-06-24 - Language support and visual security auditor for Visual Studio Code.
 * [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) ⭐ 13 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - Visual Studio Code extension for generating and storing smart contract method profiles.
 * [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - Meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
@@ -374,4 +374,4 @@ To the extent possible under law, [Ben Kremer](https://github.com/bkrem) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

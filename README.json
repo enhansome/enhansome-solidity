@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:00:29Z",
+                "last_commit": "2026-08-25T02:58:53Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25711
+                "stars": 25712
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 55413205,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T01:32:10Z",
+                "last_commit": "2026-08-25T01:45:41Z",
                 "owner": "argotorg",
                 "repo": "solc-bin",
                 "stars": 431
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-23T11:53:30Z",
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14035
+                "stars": 14034
               }
             },
             {
@@ -318,7 +318,7 @@
                     "last_commit": "2026-08-19T05:07:48Z",
                     "owner": "trailofbits",
                     "repo": "publications",
-                    "stars": 1879
+                    "stars": 1878
                   }
                 },
                 {
@@ -333,7 +333,7 @@
                     "last_commit": "2026-08-12T13:32:41Z",
                     "owner": "spearbit",
                     "repo": "portfolio",
-                    "stars": 574
+                    "stars": 573
                   }
                 },
                 {
@@ -392,7 +392,7 @@
                     "last_commit": "2024-04-19T08:52:31Z",
                     "owner": "fravoll",
                     "repo": "solidity-patterns",
-                    "stars": 3324
+                    "stars": 3323
                   }
                 },
                 {
@@ -576,7 +576,7 @@
                     "archived": false,
                     "id": 289845062,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T22:09:51Z",
+                    "last_commit": "2026-08-24T23:53:22Z",
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
                     "stars": 1941
@@ -594,7 +594,7 @@
                     "last_commit": "2026-07-29T09:54:35Z",
                     "owner": "bancorprotocol",
                     "repo": "contracts-solidity",
-                    "stars": 895
+                    "stars": 896
                   }
                 },
                 {
@@ -1018,10 +1018,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-24T14:42:07Z",
+            "last_commit": "2026-08-25T00:43:38Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27231
+            "stars": 27232
           }
         },
         {
@@ -1641,10 +1641,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-24T22:05:18Z",
+                "last_commit": "2026-08-25T04:10:53Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10572
+                "stars": 10573
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-08-05T12:27:38Z",
                 "owner": "Tenderly",
                 "repo": "tenderly-cli",
-                "stars": 586
+                "stars": 587
               }
             },
             {
@@ -2580,7 +2580,7 @@
                 "last_commit": "2026-05-28T05:22:32Z",
                 "owner": "juanfranblanco",
                 "repo": "vscode-solidity",
-                "stars": 958
+                "stars": 957
               }
             },
             {
@@ -2623,7 +2623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:57:03.947Z",
+    "last_updated": "2026-08-25T05:46:12.800Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
