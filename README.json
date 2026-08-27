@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:19:04Z",
+                "last_commit": "2026-08-26T23:00:36Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25715
+                "stars": 25718
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-25T01:45:41Z",
                 "owner": "argotorg",
                 "repo": "solc-bin",
-                "stars": 431
+                "stars": 432
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-23T11:53:30Z",
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14036
+                "stars": 14034
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2025-10-06T08:50:40Z",
                 "owner": "WTFAcademy",
                 "repo": "WTF-Ethers",
-                "stars": 3525
+                "stars": 3524
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 501990676,
                 "language": "Solidity",
-                "last_commit": "2026-08-24T03:06:00Z",
+                "last_commit": "2026-08-27T03:01:04Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6756
+                "stars": 6759
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-04-13T21:32:17Z",
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2480
+                "stars": 2481
               }
             },
             {
@@ -318,7 +318,7 @@
                     "last_commit": "2026-08-19T05:07:48Z",
                     "owner": "trailofbits",
                     "repo": "publications",
-                    "stars": 1878
+                    "stars": 1879
                   }
                 },
                 {
@@ -576,7 +576,7 @@
                     "archived": false,
                     "id": 289845062,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T16:28:06Z",
+                    "last_commit": "2026-08-26T13:07:07Z",
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
                     "stars": 1941
@@ -624,7 +624,7 @@
                     "last_commit": "2026-08-18T09:14:58Z",
                     "owner": "OlympusDAO",
                     "repo": "olympus-contracts",
-                    "stars": 720
+                    "stars": 721
                   }
                 },
                 {
@@ -651,7 +651,7 @@
                     "archived": false,
                     "id": 161252517,
                     "language": "Solidity",
-                    "last_commit": "2026-08-25T21:20:27Z",
+                    "last_commit": "2026-08-26T20:03:31Z",
                     "owner": "graphprotocol",
                     "repo": "contracts",
                     "stars": 372
@@ -786,7 +786,7 @@
                 "last_commit": "2024-06-04T15:20:23Z",
                 "owner": "scaffold-eth",
                 "repo": "scaffold-eth",
-                "stars": 9040
+                "stars": 9042
               }
             },
             {
@@ -943,7 +943,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21519
+                "stars": 21518
               }
             }
           ],
@@ -962,10 +962,10 @@
                 "archived": false,
                 "id": 111001784,
                 "language": "Solidity",
-                "last_commit": "2026-08-25T13:03:01Z",
+                "last_commit": "2026-08-26T19:55:51Z",
                 "owner": "OpenZeppelin",
                 "repo": "ethernaut",
-                "stars": 2329
+                "stars": 2330
               }
             },
             {
@@ -1018,10 +1018,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-25T18:17:57Z",
+            "last_commit": "2026-08-26T19:58:34Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27234
+            "stars": 27235
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "archived": false,
             "id": 141754460,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:15:29Z",
+            "last_commit": "2026-08-26T19:58:59Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
             "stars": 1173
@@ -1629,7 +1629,7 @@
                 "last_commit": "2024-04-22T08:47:19Z",
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13916
+                "stars": 13915
               }
             },
             {
@@ -1641,10 +1641,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-25T22:29:37Z",
+                "last_commit": "2026-08-27T03:13:36Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10575
+                "stars": 10568
               }
             },
             {
@@ -1746,7 +1746,7 @@
                 "archived": false,
                 "id": 116612696,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T19:46:28Z",
+                "last_commit": "2026-08-26T15:42:31Z",
                 "owner": "OpenZeppelin",
                 "repo": "solidity-docgen",
                 "stars": 461
@@ -1978,7 +1978,7 @@
                 "archived": false,
                 "id": 133534163,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:22:50Z",
+                "last_commit": "2026-08-26T00:03:06Z",
                 "owner": "prettier-solidity",
                 "repo": "prettier-plugin-solidity",
                 "stars": 752
@@ -2135,7 +2135,7 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:55:02Z",
+                "last_commit": "2026-08-26T22:54:54Z",
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6352
@@ -2168,7 +2168,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858
+                "stars": 3857
               }
             },
             {
@@ -2180,10 +2180,10 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-25T06:19:25Z",
+                "last_commit": "2026-08-26T21:34:24Z",
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3170
+                "stars": 3171
               }
             },
             {
@@ -2195,7 +2195,7 @@
                 "archived": false,
                 "id": 183183290,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T16:32:08Z",
+                "last_commit": "2026-08-26T16:03:02Z",
                 "owner": "argotorg",
                 "repo": "sourcify",
                 "stars": 947
@@ -2623,7 +2623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:58:41.146Z",
+    "last_updated": "2026-08-27T03:31:41.952Z",
     "original_repository": "bkrem/awesome-solidity",
     "original_repository_id": 62893187,
     "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
