@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T08:53:24Z",
-                "open_issues": 826,
+                "open_issues": 827,
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25736,
+                "stars": 25738,
                 "topics": [
                   "blockchain",
                   "cpp",
@@ -68,7 +68,7 @@
                 "id": 55413205,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T03:18:43Z",
+                "last_commit": "2026-09-12T03:23:05Z",
                 "open_issues": 6,
                 "owner": "argotorg",
                 "repo": "solc-bin",
@@ -219,7 +219,7 @@
                 "open_issues": 16,
                 "owner": "ExtropyIO",
                 "repo": "defi-bot",
-                "stars": 1230,
+                "stars": 1232,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -264,11 +264,11 @@
                 "id": 501990676,
                 "language": "Solidity",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T03:03:26Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-12T15:37:13Z",
+                "open_issues": 4,
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6780,
+                "stars": 6783,
                 "topics": [
                   "defi",
                   "ethereum",
@@ -295,7 +295,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2478,
+                "stars": 2479,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -383,7 +383,7 @@
                 "open_issues": 4,
                 "owner": "sigp",
                 "repo": "solidity-security-blog",
-                "stars": 1520,
+                "stars": 1521,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -520,7 +520,7 @@
                     "open_issues": 0,
                     "owner": "spearbit",
                     "repo": "portfolio",
-                    "stars": 574,
+                    "stars": 575,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -839,7 +839,7 @@
                     "open_issues": 84,
                     "owner": "Uniswap",
                     "repo": "v3-core",
-                    "stars": 5020,
+                    "stars": 5021,
                     "topics": [
                       "automated-market-maker",
                       "core",
@@ -865,7 +865,7 @@
                     "open_issues": 87,
                     "owner": "compound-finance",
                     "repo": "compound-protocol",
-                    "stars": 2035,
+                    "stars": 2036,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -928,7 +928,7 @@
                     "open_issues": 56,
                     "owner": "ensdomains",
                     "repo": "ens-contracts",
-                    "stars": 727,
+                    "stars": 729,
                     "topics": [
                       "ethereum",
                       "solidity"
@@ -1144,7 +1144,7 @@
                     "open_issues": 26,
                     "owner": "smartcontractkit",
                     "repo": "LinkToken",
-                    "stars": 134,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1184,40 +1184,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "austintgriffith/scaffold-eth",
-              "description": "GitHub template providing an Ethereum dev stack focused on fast product iterations.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "🏗 forkable Ethereum dev stack focused on fast product iterations ",
-                "homepage": "http://scaffoldeth.io",
-                "id": 259354262,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2024-06-04T15:20:23Z",
-                "open_issues": 2,
-                "owner": "scaffold-eth",
-                "repo": "scaffold-eth",
-                "stars": 9039,
-                "topics": [
-                  "buidler",
-                  "create-react-app",
-                  "dapp",
-                  "eth",
-                  "ethereum",
-                  "ethers",
-                  "graph",
-                  "react",
-                  "scaffoldeth",
-                  "scaffolding",
-                  "solidity",
-                  "uniswap"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "ethereum-boilerplate/ethereum-boilerplate",
               "description": "React components and hooks to build dApps fast without running your own backend.",
               "children": [],
@@ -1250,6 +1216,41 @@
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
+            },
+            {
+              "node_type": "item",
+              "title": "scaffold-eth/scaffold-eth-2",
+              "description": "Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source forkable Ethereum dev stack",
+                "homepage": "https://scaffoldeth.io",
+                "id": 538538681,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-27T06:08:22Z",
+                "open_issues": 19,
+                "owner": "scaffold-eth",
+                "repo": "scaffold-eth-2",
+                "stars": 2048,
+                "topics": [
+                  "daisyui",
+                  "dapp",
+                  "ethereum",
+                  "ethersjs",
+                  "hardhat",
+                  "nextjs",
+                  "rainbowkit",
+                  "solidity",
+                  "starter-kit",
+                  "tailwindcss",
+                  "typescript",
+                  "viem",
+                  "wagmi"
+                ]
+              },
+              "first_seen": "2026-09-13T00:13:13.277Z"
             },
             {
               "node_type": "item",
@@ -1531,7 +1532,7 @@
                 "open_issues": 5,
                 "owner": "OpenZeppelin",
                 "repo": "damn-vulnerable-defi",
-                "stars": 753,
+                "stars": 754,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1580,11 +1581,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:54:48Z",
+            "last_commit": "2026-09-12T20:03:50Z",
             "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27240,
+            "stars": 27241,
             "topics": [
               "ethereum",
               "evm",
@@ -1611,7 +1612,7 @@
             "open_issues": 129,
             "owner": "transmissions11",
             "repo": "solmate",
-            "stars": 4285,
+            "stars": 4286,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:43.774Z"
@@ -2621,8 +2622,8 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T21:32:17Z",
-                "open_issues": 270,
+                "last_commit": "2026-09-12T16:20:02Z",
+                "open_issues": 278,
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10593,
@@ -3200,7 +3201,7 @@
                 "id": 133534163,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:15:56Z",
+                "last_commit": "2026-09-12T19:08:51Z",
                 "open_issues": 10,
                 "owner": "prettier-solidity",
                 "repo": "prettier-plugin-solidity",
@@ -3230,7 +3231,7 @@
                 "open_issues": 55,
                 "owner": "Tenderly",
                 "repo": "tenderly-cli",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "alerting",
                   "cli",
@@ -3539,7 +3540,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -3569,7 +3570,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 113,
+                "open_issues": 112,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3176,
@@ -3598,7 +3599,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T09:15:18Z",
-                "open_issues": 107,
+                "open_issues": 106,
                 "owner": "argotorg",
                 "repo": "sourcify",
                 "stars": 949,
@@ -4293,7 +4294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:34:29.946Z",
+    "last_updated": "2026-09-13T00:13:13.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
@@ -4301,8 +4302,8 @@
       "id": 62893187,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-18T07:55:17Z",
-      "open_issues": 29,
+      "last_commit": "2026-09-12T13:53:00Z",
+      "open_issues": 27,
       "owner": "bkrem",
       "repo": "awesome-solidity",
       "stars": 7049,
@@ -4329,7 +4330,7 @@
         "web3-solidity"
       ]
     },
-    "original_repository_sha": "8000baca1925ac6a5845da035e947545246605eb",
+    "original_repository_sha": "34414f7684417ac047b6211b791757d053bd3751",
     "enhanced_repository": "enhansome/enhansome-solidity",
     "enhanced_repository_description": null,
     "title": "Awesome solidity with stars"
