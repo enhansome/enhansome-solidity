@@ -37,27 +37,6 @@
             },
             {
               "node_type": "item",
-              "title": "ethereum/solidity-examples",
-              "description": "Loose collection of example code.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Loose collection of Solidity example code",
-                "homepage": null,
-                "id": 73497633,
-                "language": "Solidity",
-                "license": "MIT",
-                "last_commit": "2023-01-03T17:13:31Z",
-                "open_issues": 21,
-                "owner": "ethereum",
-                "repo": "solidity-examples",
-                "stars": 579,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "ethereum/solc-bin",
               "description": "Current and historical builds of the compiler.",
               "children": [],
@@ -100,7 +79,7 @@
                 "open_issues": 33,
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14043,
+                "stars": 14046,
                 "topics": [
                   "airdrop",
                   "auction",
@@ -265,10 +244,10 @@
                 "language": "Solidity",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T15:37:13Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6783,
+                "stars": 6786,
                 "topics": [
                   "defi",
                   "ethereum",
@@ -295,33 +274,8 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "crytic/not-so-smart-contracts",
-              "description": "Examples of common vulnerabilities, including code from real smart contracts.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Examples of Solidity security issues",
-                "homepage": null,
-                "id": 101668791,
-                "language": "Solidity",
-                "license": "Apache-2.0",
-                "last_commit": "2023-02-24T12:18:59Z",
-                "open_issues": 10,
-                "owner": "crytic",
-                "repo": "not-so-smart-contracts",
-                "stars": 2224,
-                "topics": [
-                  "ethereum",
-                  "solidity",
-                  "vulnerabilities"
-                ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
             },
@@ -416,27 +370,6 @@
             },
             {
               "node_type": "item",
-              "title": "securing/SCSVS",
-              "description": "Smart Contract Security Verification Standard.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Smart Contract Security Verification Standard",
-                "homepage": null,
-                "id": 167376270,
-                "language": null,
-                "license": null,
-                "last_commit": "2023-02-07T06:03:20Z",
-                "open_issues": 6,
-                "owner": "securing",
-                "repo": "SCSVS",
-                "stars": 627,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "OriginProtocol/security",
               "description": "Materials related to security: docs, checklists, processes.",
               "children": [],
@@ -495,7 +428,7 @@
                     "open_issues": 3,
                     "owner": "trailofbits",
                     "repo": "publications",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": [
                       "academic-papers",
                       "conference-presentations",
@@ -644,7 +577,7 @@
                     "open_issues": 20,
                     "owner": "flashbots",
                     "repo": "simple-arbitrage",
-                    "stars": 2109,
+                    "stars": 2108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -732,37 +665,6 @@
                     "topics": [
                       "ethereum",
                       "solidity"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:16:43.774Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "miguelmota/solidity-idiosyncrasies",
-                  "description": "Common gotchas, pitfalls, limitations, and idiosyncrasies.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Solidity gotchas, pitfalls, limitations, and idiosyncrasies.",
-                    "homepage": "https://github.com/miguelmota/solidity-idiosyncrasies",
-                    "id": 107217298,
-                    "language": "Solidity",
-                    "license": "MIT",
-                    "last_commit": "2020-11-30T02:11:40Z",
-                    "open_issues": 0,
-                    "owner": "miguelmota",
-                    "repo": "solidity-idiosyncrasies",
-                    "stars": 342,
-                    "topics": [
-                      "best-practices",
-                      "ethereum",
-                      "gotchas",
-                      "idiosyncrasies",
-                      "pitfalls",
-                      "smart-contracts",
-                      "solidity",
-                      "truffle",
-                      "web3"
                     ]
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -865,7 +767,7 @@
                     "open_issues": 87,
                     "owner": "compound-finance",
                     "repo": "compound-protocol",
-                    "stars": 2036,
+                    "stars": 2035,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -886,7 +788,7 @@
                     "open_issues": 7,
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
-                    "stars": 1941,
+                    "stars": 1940,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -924,7 +826,7 @@
                     "id": 367026848,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T17:46:25Z",
+                    "last_commit": "2026-09-13T22:10:53Z",
                     "open_issues": 56,
                     "owner": "ensdomains",
                     "repo": "ens-contracts",
@@ -973,7 +875,7 @@
                     "open_issues": 48,
                     "owner": "andrecronje",
                     "repo": "rarity",
-                    "stars": 599,
+                    "stars": 598,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1070,7 +972,7 @@
                     "open_issues": 13,
                     "owner": "dharma-eng",
                     "repo": "dharma-smart-wallet",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": [
                       "assembly",
                       "dharma",
@@ -1083,27 +985,6 @@
                       "upgradeable",
                       "wallet"
                     ]
-                  },
-                  "first_seen": "2026-08-28T06:16:43.774Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Abracadabra-money/magic-internet-money",
-                  "description": "Magic Internet Money (MIM) contracts.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": null,
-                    "homepage": null,
-                    "id": 363101442,
-                    "language": "Solidity",
-                    "license": null,
-                    "last_commit": "2022-11-18T06:03:03Z",
-                    "open_issues": 4,
-                    "owner": "Abracadabra-money",
-                    "repo": "magic-internet-money",
-                    "stars": 215,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
                 },
@@ -1144,28 +1025,7 @@
                     "open_issues": 26,
                     "owner": "smartcontractkit",
                     "repo": "LinkToken",
-                    "stars": 135,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:16:43.774Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "sushiswap/kashi-lending",
-                  "description": "Kashi Lending platform contracts.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": null,
-                    "homepage": null,
-                    "id": 338945269,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2022-10-25T17:57:57Z",
-                    "open_issues": 13,
-                    "owner": "sushiswap",
-                    "repo": "kashi-lending",
-                    "stars": 83,
+                    "stars": 134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1198,7 +1058,7 @@
                 "open_issues": 15,
                 "owner": "ethereum-boilerplate",
                 "repo": "ethereum-boilerplate",
-                "stars": 4136,
+                "stars": 4135,
                 "topics": [
                   "bsc-boilerplate",
                   "dapp-boilerplate",
@@ -1233,7 +1093,7 @@
                 "open_issues": 19,
                 "owner": "scaffold-eth",
                 "repo": "scaffold-eth-2",
-                "stars": 2048,
+                "stars": 2047,
                 "topics": [
                   "daisyui",
                   "dapp",
@@ -1268,7 +1128,7 @@
                 "open_issues": 2,
                 "owner": "PaulRBerg",
                 "repo": "hardhat-template",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -1295,7 +1155,7 @@
                 "id": 306618195,
                 "language": "Solidity",
                 "license": "Unlicense",
-                "last_commit": "2026-08-19T18:09:29Z",
+                "last_commit": "2026-09-13T18:44:42Z",
                 "open_issues": 0,
                 "owner": "wighawag",
                 "repo": "template-ethereum-contracts",
@@ -1306,8 +1166,8 @@
             },
             {
               "node_type": "item",
-              "title": "gakonst/dapptools-template",
-              "description": "Forkable template to get you started with Dapp Tools.",
+              "title": "foundry-rs/forge-template",
+              "description": "Template for getting started quickly with Foundry projects.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1376,7 +1236,7 @@
             {
               "node_type": "item",
               "title": "transmissions11/foundry-template",
-              "description": "Streamlined template for getting started with Foundry and Solmate.",
+              "description": "Streamlined template for getting started with Foundry.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,35 +1251,6 @@
                 "repo": "foundry-template",
                 "stars": 164,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NodeFactoryIo/solidity-node-docker-starter",
-              "description": "GitHub template with Docker containers for building dApps with Truffle and Node.js as a backend server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Starter project for developing Ethereum smart contracts with Solidity, Truffle and Node.js as a backend server.",
-                "homepage": null,
-                "id": 132317784,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2019-08-27T22:51:33Z",
-                "open_issues": 5,
-                "owner": "NodeFactoryIo",
-                "repo": "solidity-node-docker-starter",
-                "stars": 61,
-                "topics": [
-                  "docker",
-                  "docker-compose",
-                  "express",
-                  "nodejs",
-                  "solidity",
-                  "solidity-contracts",
-                  "truffle"
-                ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
             },
@@ -1470,7 +1301,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21525,
+                "stars": 21529,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1582,10 +1413,10 @@
             "language": "Solidity",
             "license": "MIT",
             "last_commit": "2026-09-12T20:03:50Z",
-            "open_issues": 374,
+            "open_issues": 376,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27241,
+            "stars": 27240,
             "topics": [
               "ethereum",
               "evm",
@@ -1598,24 +1429,57 @@
         },
         {
           "node_type": "item",
-          "title": "transmissions11/solmate",
-          "description": "Modern, opinionated, and gas-optimized building blocks for smart contract development.",
+          "title": "Anchor",
+          "description": "Framework used with Solang for Solana projects.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-            "homepage": null,
-            "id": 387031101,
-            "language": "Solidity",
-            "license": "NOASSERTION",
-            "last_commit": "2025-07-21T22:24:39Z",
-            "open_issues": 129,
-            "owner": "transmissions11",
-            "repo": "solmate",
-            "stars": 4286,
-            "topics": []
+            "description": "⚓ Solana Program Framework",
+            "homepage": "https://anchor-lang.com",
+            "id": 325891672,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-12T22:57:04Z",
+            "open_issues": 119,
+            "owner": "otter-sec",
+            "repo": "anchor",
+            "stars": 5132,
+            "topics": [
+              "blockchain",
+              "rust",
+              "smart-contracts",
+              "solana"
+            ]
           },
-          "first_seen": "2026-08-28T06:16:43.774Z"
+          "first_seen": "2026-09-14T00:22:35.491Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vectorized/solady",
+          "description": "Gas-optimized smart contract snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Optimized Solidity snippets.",
+            "homepage": null,
+            "id": 514706800,
+            "language": "Solidity",
+            "license": "MIT",
+            "last_commit": "2026-09-02T10:47:33Z",
+            "open_issues": 46,
+            "owner": "Vectorized",
+            "repo": "solady",
+            "stars": 3372,
+            "topics": [
+              "erc1155",
+              "erc20",
+              "erc721",
+              "ethereum",
+              "inline-assembly",
+              "solidity"
+            ]
+          },
+          "first_seen": "2026-09-14T00:22:35.491Z"
         },
         {
           "node_type": "item",
@@ -1730,7 +1594,7 @@
             "open_issues": 47,
             "owner": "thirdweb-dev",
             "repo": "contracts",
-            "stars": 1089,
+            "stars": 1088,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1803,27 +1667,6 @@
         },
         {
           "node_type": "item",
-          "title": "dapp-bin",
-          "description": "Ethereum repo providing common data structures and utilities in multiple smart contract languages.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A place for all the ÐApps to live",
-            "homepage": null,
-            "id": 22730041,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-06-14T22:35:51Z",
-            "open_issues": 33,
-            "owner": "ethereum",
-            "repo": "dapp-bin",
-            "stars": 1023,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
           "title": "hifi-finance/prb-math",
           "description": "Smart contract library for advanced fixed-point math.",
           "children": [],
@@ -1875,48 +1718,6 @@
         },
         {
           "node_type": "item",
-          "title": "makerdao/multicall",
-          "description": "Aggregate multiple constant function call results into one.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Multicall: Aggregate multiple constant function call results into one",
-            "homepage": null,
-            "id": 151355420,
-            "language": "Solidity",
-            "license": "MIT",
-            "last_commit": "2023-03-26T08:19:51Z",
-            "open_issues": 22,
-            "owner": "sky-ecosystem",
-            "repo": "multicall",
-            "stars": 868,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Uniswap/merkle-distributor",
-          "description": "Smart contract that distributes a balance of tokens according to a merkle root.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "📦 A smart contract that distributes a balance of tokens according to a merkle root",
-            "homepage": null,
-            "id": 292302152,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2023-06-23T16:37:16Z",
-            "open_issues": 8,
-            "owner": "Uniswap",
-            "repo": "merkle-distributor",
-            "stars": 623,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
           "title": "dapphub/dappsys",
           "description": "Contract system framework for flexible multi-contract dapps.",
           "children": [],
@@ -1931,7 +1732,7 @@
             "open_issues": 15,
             "owner": "dapphub",
             "repo": "dappsys",
-            "stars": 565,
+            "stars": 564,
             "topics": [
               "dappsys",
               "ethereum",
@@ -2044,27 +1845,6 @@
         },
         {
           "node_type": "item",
-          "title": "Keydonix/uniswap-oracle",
-          "description": "General purpose price feed oracle built on Uniswap v2 that uses merkle proofs under the hood.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A general purpose price feed oracle built on Uniswap v2 that uses merkle proofs under the hood.",
-            "homepage": null,
-            "id": 246760170,
-            "language": "TypeScript",
-            "license": "Unlicense",
-            "last_commit": "2025-07-22T13:42:38Z",
-            "open_issues": 6,
-            "owner": "Keydonix",
-            "repo": "uniswap-oracle",
-            "stars": 256,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
           "title": "wbobeirne/eth-balance-checker",
           "description": "Smart contract and library pair that allows you to check for multiple ERC20 and Ether balances across multiple addresses in a single RPC call.",
           "children": [],
@@ -2081,34 +1861,6 @@
             "repo": "eth-balance-checker",
             "stars": 255,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
-          "title": "truffle-assertions",
-          "description": "Adds assertions and utilities for testing smart contracts with Truffle.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🛠 Assertions and utilities for testing Ethereum smart contracts with Truffle unit tests",
-            "homepage": "https://kalis.me/check-events-solidity-smart-contract-test-truffle/",
-            "id": 130585751,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-10-26T14:49:51Z",
-            "open_issues": 0,
-            "owner": "rkalis",
-            "repo": "truffle-assertions",
-            "stars": 151,
-            "topics": [
-              "ethereum",
-              "events",
-              "revert",
-              "solidity",
-              "truffle",
-              "web3"
-            ]
           },
           "first_seen": "2026-08-28T06:16:43.774Z"
         },
@@ -2157,27 +1909,6 @@
               "homework",
               "smart-contracts"
             ]
-          },
-          "first_seen": "2026-08-28T06:16:43.774Z"
-        },
-        {
-          "node_type": "item",
-          "title": "solana-labs/solana-solidity.js",
-          "description": "Compile, deploy, and use contracts on Solana.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Compile, deploy, and use Solidity contracts on Solana",
-            "homepage": "https://solana-labs.github.io/solana-solidity.js",
-            "id": 395377927,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2023-03-29T13:30:42Z",
-            "open_issues": 7,
-            "owner": "solana-labs",
-            "repo": "solana-solidity.js",
-            "stars": 114,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:16:43.774Z"
         },
@@ -2581,37 +2312,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Truffle",
-              "description": "Development environment, testing framework, and asset pipeline for Ethereum.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.",
-                "homepage": "https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_",
-                "id": 38267641,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-04-22T08:47:19Z",
-                "open_issues": 527,
-                "owner": "ConsenSys-archive",
-                "repo": "truffle",
-                "stars": 13911,
-                "topics": [
-                  "blockchain",
-                  "ethereum",
-                  "framework",
-                  "hacktoberfest",
-                  "javascript",
-                  "smart-contract-tools",
-                  "smart-contracts",
-                  "solidity",
-                  "truffle"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "foundry-rs/foundry",
               "description": "Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
               "children": [],
@@ -2622,11 +2322,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T16:20:02Z",
+                "last_commit": "2026-09-13T23:02:39Z",
                 "open_issues": 278,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10593,
+                "stars": 10595,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -2668,7 +2368,7 @@
                 "open_issues": 171,
                 "owner": "dapphub",
                 "repo": "dapptools",
-                "stars": 2122,
+                "stars": 2121,
                 "topics": [
                   "dapp",
                   "ethereum",
@@ -2696,7 +2396,7 @@
                 "open_issues": 7,
                 "owner": "tintinweb",
                 "repo": "smart-contract-sanctuary",
-                "stars": 1592,
+                "stars": 1591,
                 "topics": [
                   "arbitrum",
                   "avalanche-c-chain",
@@ -2729,7 +2429,7 @@
                 "open_issues": 23,
                 "owner": "dethcrypto",
                 "repo": "dethcode",
-                "stars": 1369,
+                "stars": 1368,
                 "topics": [
                   "ethereum",
                   "etherscan",
@@ -2827,7 +2527,7 @@
                 "open_issues": 43,
                 "owner": "OpenZeppelin",
                 "repo": "solidity-docgen",
-                "stars": 461,
+                "stars": 460,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -2948,7 +2648,7 @@
                 "open_issues": 4,
                 "owner": "RyuuGan",
                 "repo": "sol-merger",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "flattener",
                   "merger",
@@ -2958,6 +2658,27 @@
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lfglabs-dev/verity",
+              "description": "Lean 4 framework for specifying and proving smart contract properties, with EVM-oriented output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Formally verified smart contracts gives mathematical certainty across all inputs and execution paths. We bet that agents will make full formal verification practical.",
+                "homepage": "https://veritylang.com",
+                "id": 1152936905,
+                "language": "Lean",
+                "license": "MIT",
+                "last_commit": "2026-09-11T14:25:28Z",
+                "open_issues": 25,
+                "owner": "lfglabs-dev",
+                "repo": "verity",
+                "stars": 148,
+                "topics": []
+              },
+              "first_seen": "2026-09-14T00:22:35.491Z"
             },
             {
               "node_type": "item",
@@ -3019,37 +2740,6 @@
                 "repo": "dapp-scratch",
                 "stars": 41,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "create-truffle-dapp",
-              "description": "CLI to create and deploy Truffle projects with no configuration.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Create and deploy Truffle projects with no configuration.",
-                "homepage": null,
-                "id": 144521043,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2019-04-27T14:56:11Z",
-                "open_issues": 2,
-                "owner": "clemlak",
-                "repo": "create-truffle-dapp",
-                "stars": 15,
-                "topics": [
-                  "blockchain",
-                  "cli",
-                  "dapp",
-                  "deployment",
-                  "ethereum",
-                  "smart-contracts",
-                  "solidity",
-                  "truffle",
-                  "zero-configuration"
-                ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
             },
@@ -3201,7 +2891,7 @@
                 "id": 133534163,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T19:08:51Z",
+                "last_commit": "2026-09-13T21:19:48Z",
                 "open_issues": 10,
                 "owner": "prettier-solidity",
                 "repo": "prettier-plugin-solidity",
@@ -3231,7 +2921,7 @@
                 "open_issues": 55,
                 "owner": "Tenderly",
                 "repo": "tenderly-cli",
-                "stars": 590,
+                "stars": 589,
                 "topics": [
                   "alerting",
                   "cli",
@@ -3241,33 +2931,6 @@
                   "monitoring",
                   "real-time-analytics",
                   "smart-contracts"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rkalis/truffle-plugin-verify",
-              "description": "Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "✅ Verify your smart contracts on Etherscan from the Truffle CLI",
-                "homepage": "https://kalis.me/verify-truffle-smart-contracts-etherscan/",
-                "id": 176710686,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2023-11-20T14:08:58Z",
-                "open_issues": 0,
-                "owner": "rkalis",
-                "repo": "truffle-plugin-verify",
-                "stars": 500,
-                "topics": [
-                  "ethereum",
-                  "etherscan",
-                  "solidity",
-                  "truffle",
-                  "web3"
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -3288,7 +2951,7 @@
                 "open_issues": 3,
                 "owner": "tintinweb",
                 "repo": "solgrep",
-                "stars": 144,
+                "stars": 143,
                 "topics": [
                   "grep",
                   "search",
@@ -3386,34 +3049,6 @@
             },
             {
               "node_type": "item",
-              "title": "Aniket-Engg/sol-verifier",
-              "description": "Verify smart contracts on Etherscan.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Verify Solidity smart contracts on Etherscan",
-                "homepage": null,
-                "id": 161603389,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2023-03-03T11:28:36Z",
-                "open_issues": 7,
-                "owner": "Aniket-Engg",
-                "repo": "sol-verifier",
-                "stars": 29,
-                "topics": [
-                  "etherscan",
-                  "etherscan-api",
-                  "sol-verifier",
-                  "solidity",
-                  "solidity-contracts",
-                  "verification-code"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "sambacha/prettier-config-solidity",
               "description": "Prettier config optimized to reduce AST churn and conform to the language spec.",
               "children": [],
@@ -3436,6 +3071,34 @@
                   "prettier",
                   "prettier-config",
                   "solidity"
+                ]
+              },
+              "first_seen": "2026-08-28T06:16:43.774Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Aniket-Engg/sol-verifier",
+              "description": "Verify smart contracts on Etherscan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Verify Solidity smart contracts on Etherscan",
+                "homepage": null,
+                "id": 161603389,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2023-03-03T11:28:36Z",
+                "open_issues": 7,
+                "owner": "Aniket-Engg",
+                "repo": "sol-verifier",
+                "stars": 28,
+                "topics": [
+                  "etherscan",
+                  "etherscan-api",
+                  "sol-verifier",
+                  "solidity",
+                  "solidity-contracts",
+                  "verification-code"
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -3510,7 +3173,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4269,
+                "stars": 4270,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -3520,39 +3183,6 @@
                   "smart-contracts",
                   "solidity",
                   "symbolic-execution"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Manticore",
-              "description": "Detects many common bug types and can prove correctness properties with symbolic execution.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Symbolic execution tool",
-                "homepage": "https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/",
-                "id": 81612762,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-06-24T16:28:22Z",
-                "open_issues": 261,
-                "owner": "trailofbits",
-                "repo": "manticore",
-                "stars": 3856,
-                "topics": [
-                  "binary-analysis",
-                  "blockchain",
-                  "emulation",
-                  "ethereum",
-                  "program-analysis",
-                  "python",
-                  "security",
-                  "smt",
-                  "symbolic-execution",
-                  "testing",
-                  "z3"
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -3626,7 +3256,7 @@
                 "id": 683427841,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T13:03:57Z",
+                "last_commit": "2026-09-13T13:04:15Z",
                 "open_issues": 20,
                 "owner": "Cyfrin",
                 "repo": "aderyn",
@@ -3666,27 +3296,6 @@
                   "static-analysis",
                   "vulnerability"
                 ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "a16z/metamorphic-contract-detector",
-              "description": "Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": null,
-                "homepage": null,
-                "id": 466639401,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-06-24T04:57:31Z",
-                "open_issues": 0,
-                "owner": "a16z",
-                "repo": "metamorphic-contract-detector",
-                "stars": 164,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
             }
@@ -3770,32 +3379,6 @@
             },
             {
               "node_type": "item",
-              "title": "solidity-parser",
-              "description": "Parser built in JavaScript.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A Solidity parser for JS built on top of a robust ANTLR4 grammar",
-                "homepage": null,
-                "id": 94512608,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2020-09-05T00:58:32Z",
-                "open_issues": 35,
-                "owner": "federicobond",
-                "repo": "solidity-parser-antlr",
-                "stars": 155,
-                "topics": [
-                  "antlr4",
-                  "nodejs",
-                  "parser",
-                  "solidity"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
               "title": "deno-web3/solc",
               "description": "Compiler bindings for Deno.",
               "children": [],
@@ -3872,7 +3455,7 @@
                 "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2791,
+                "stars": 2790,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -3882,33 +3465,6 @@
                   "truffle",
                   "typescript",
                   "web3"
-                ]
-              },
-              "first_seen": "2026-08-28T06:16:43.774Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Soltsice",
-              "description": "Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Solidity & TypeScript Integration, Configuration and Examples",
-                "homepage": "https://soltsice.github.io/Soltsice/",
-                "id": 101793925,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2019-03-31T16:46:39Z",
-                "open_issues": 6,
-                "owner": "Soltsice",
-                "repo": "Soltsice",
-                "stars": 100,
-                "topics": [
-                  "ethereum",
-                  "react",
-                  "solidity",
-                  "truffle",
-                  "typescript"
                 ]
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -3936,7 +3492,7 @@
                 "open_issues": 293,
                 "owner": "hyperledger-solang",
                 "repo": "solang",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "blockchain",
                   "bpf",
@@ -4219,7 +3775,7 @@
                 "open_issues": 151,
                 "owner": "juanfranblanco",
                 "repo": "vscode-solidity",
-                "stars": 958,
+                "stars": 957,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -4294,7 +3850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:13:13.277Z",
+    "last_updated": "2026-09-14T00:22:35.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
@@ -4302,11 +3858,11 @@
       "id": 62893187,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-12T13:53:00Z",
-      "open_issues": 27,
+      "last_commit": "2026-09-13T08:29:52Z",
+      "open_issues": 14,
       "owner": "bkrem",
       "repo": "awesome-solidity",
-      "stars": 7049,
+      "stars": 7048,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4330,7 +3886,7 @@
         "web3-solidity"
       ]
     },
-    "original_repository_sha": "34414f7684417ac047b6211b791757d053bd3751",
+    "original_repository_sha": "d0cefd0d843436b828b344d0855c26667fb0c54c",
     "enhanced_repository": "enhansome/enhansome-solidity",
     "enhanced_repository_description": null,
     "title": "Awesome solidity with stars"
