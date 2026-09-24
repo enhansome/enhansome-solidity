@@ -17,11 +17,11 @@
                 "id": 40892817,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T22:18:01Z",
-                "open_issues": 828,
+                "last_commit": "2026-09-23T20:04:34Z",
+                "open_issues": 829,
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25738,
+                "stars": 25740,
                 "topics": [
                   "blockchain",
                   "cpp",
@@ -47,7 +47,7 @@
                 "id": 55413205,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T03:31:22Z",
+                "last_commit": "2026-09-23T03:27:53Z",
                 "open_issues": 6,
                 "owner": "argotorg",
                 "repo": "solc-bin",
@@ -79,7 +79,7 @@
                 "open_issues": 34,
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14055,
+                "stars": 14058,
                 "topics": [
                   "airdrop",
                   "auction",
@@ -148,7 +148,7 @@
                 "open_issues": 14,
                 "owner": "willitscale",
                 "repo": "learning-solidity",
-                "stars": 2061,
+                "stars": 2062,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -171,7 +171,7 @@
                 "open_issues": 0,
                 "owner": "manojpramesh",
                 "repo": "solidity-cheatsheet",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": [
                   "best-practices",
                   "blockchain",
@@ -247,7 +247,7 @@
                 "open_issues": 2,
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6795,
+                "stars": 6796,
                 "topics": [
                   "defi",
                   "ethereum",
@@ -274,7 +274,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -295,7 +295,7 @@
                 "open_issues": 3,
                 "owner": "transmissions11",
                 "repo": "solcurity",
-                "stars": 2180,
+                "stars": 2181,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -337,7 +337,7 @@
                 "open_issues": 4,
                 "owner": "sigp",
                 "repo": "solidity-security-blog",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -424,11 +424,11 @@
                     "id": 34814001,
                     "language": "Python",
                     "license": "CC-BY-SA-4.0",
-                    "last_commit": "2026-09-22T15:56:00Z",
+                    "last_commit": "2026-09-23T18:14:40Z",
                     "open_issues": 4,
                     "owner": "trailofbits",
                     "repo": "publications",
-                    "stars": 1898,
+                    "stars": 1899,
                     "topics": [
                       "academic-papers",
                       "conference-presentations",
@@ -530,7 +530,7 @@
                     "open_issues": 2,
                     "owner": "fravoll",
                     "repo": "solidity-patterns",
-                    "stars": 3321,
+                    "stars": 3322,
                     "topics": [
                       "smart-contract",
                       "solidity",
@@ -640,7 +640,7 @@
                     "open_issues": 5,
                     "owner": "pedrobergamini",
                     "repo": "flashloaner-contract",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -784,11 +784,11 @@
                     "id": 289845062,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T16:16:13Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-09-23T21:44:19Z",
+                    "open_issues": 6,
                     "owner": "sushi-labs",
                     "repo": "sushiswap",
-                    "stars": 1940,
+                    "stars": 1941,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -809,7 +809,7 @@
                     "open_issues": 6,
                     "owner": "bancorprotocol",
                     "repo": "contracts-solidity",
-                    "stars": 896,
+                    "stars": 897,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -830,7 +830,7 @@
                     "open_issues": 56,
                     "owner": "ensdomains",
                     "repo": "ens-contracts",
-                    "stars": 728,
+                    "stars": 729,
                     "topics": [
                       "ethereum",
                       "solidity"
@@ -854,7 +854,7 @@
                     "open_issues": 59,
                     "owner": "OlympusDAO",
                     "repo": "olympus-contracts",
-                    "stars": 719,
+                    "stars": 720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 15,
                 "owner": "ethereum-boilerplate",
                 "repo": "ethereum-boilerplate",
-                "stars": 4132,
+                "stars": 4133,
                 "topics": [
                   "bsc-boilerplate",
                   "dapp-boilerplate",
@@ -1128,7 +1128,7 @@
                 "open_issues": 2,
                 "owner": "PaulRBerg",
                 "repo": "hardhat-template",
-                "stars": 1968,
+                "stars": 1970,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -1159,7 +1159,7 @@
                 "open_issues": 0,
                 "owner": "wighawag",
                 "repo": "template-ethereum-contracts",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1201,7 +1201,7 @@
                 "open_issues": 18,
                 "owner": "rhlsthrm",
                 "repo": "typescript-solidity-dev-starter-kit",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "buidler",
                   "dapps",
@@ -1301,7 +1301,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21531,
+                "stars": 21533,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1338,8 +1338,8 @@
                 "id": 111001784,
                 "language": "Solidity",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T12:04:00Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-23T21:50:13Z",
+                "open_issues": 73,
                 "owner": "OpenZeppelin",
                 "repo": "ethernaut",
                 "stars": 2336,
@@ -1412,11 +1412,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-22T19:13:23Z",
+            "last_commit": "2026-09-23T16:30:48Z",
             "open_issues": 359,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27251,
+            "stars": 27253,
             "topics": [
               "ethereum",
               "evm",
@@ -1439,8 +1439,8 @@
             "id": 325891672,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T15:03:55Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-23T23:22:26Z",
+            "open_issues": 107,
             "owner": "otter-sec",
             "repo": "anchor",
             "stars": 5134,
@@ -1469,7 +1469,7 @@
             "open_issues": 46,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3374,
+            "stars": 3376,
             "topics": [
               "erc1155",
               "erc20",
@@ -1497,7 +1497,7 @@
             "open_issues": 76,
             "owner": "Uniswap",
             "repo": "v3-periphery",
-            "stars": 1333,
+            "stars": 1334,
             "topics": [
               "automated-market-maker",
               "bug-bounty",
@@ -1548,7 +1548,7 @@
             "id": 141754460,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T19:14:07Z",
+            "last_commit": "2026-09-23T11:48:29Z",
             "open_issues": 13,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
@@ -1655,7 +1655,7 @@
             "open_issues": 42,
             "owner": "studydefi",
             "repo": "money-legos",
-            "stars": 1026,
+            "stars": 1027,
             "topics": [
               "blockchain",
               "defi",
@@ -1757,7 +1757,7 @@
             "open_issues": 10,
             "owner": "optionality",
             "repo": "clone-factory",
-            "stars": 512,
+            "stars": 513,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:43.774Z"
@@ -1778,7 +1778,7 @@
             "open_issues": 31,
             "owner": "solidstate-network",
             "repo": "solidstate-solidity",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "buidler",
               "crypto",
@@ -2322,11 +2322,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T00:30:54Z",
-                "open_issues": 269,
+                "last_commit": "2026-09-24T00:32:04Z",
+                "open_issues": 262,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10621,
+                "stars": 10623,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -2368,7 +2368,7 @@
                 "open_issues": 171,
                 "owner": "dapphub",
                 "repo": "dapptools",
-                "stars": 2123,
+                "stars": 2122,
                 "topics": [
                   "dapp",
                   "ethereum",
@@ -2429,7 +2429,7 @@
                 "open_issues": 23,
                 "owner": "dethcrypto",
                 "repo": "dethcode",
-                "stars": 1368,
+                "stars": 1369,
                 "topics": [
                   "ethereum",
                   "etherscan",
@@ -2671,8 +2671,8 @@
                 "id": 1152936905,
                 "language": "Lean",
                 "license": "MIT",
-                "last_commit": "2026-09-22T18:26:54Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-23T23:01:37Z",
+                "open_issues": 37,
                 "owner": "lfglabs-dev",
                 "repo": "verity",
                 "stars": 148,
@@ -2786,8 +2786,8 @@
                 "id": 1223590168,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-23T00:14:12Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-23T22:29:42Z",
+                "open_issues": 1,
                 "owner": "ChainBench",
                 "repo": "OpenChainBench",
                 "stars": 7,
@@ -2950,11 +2950,11 @@
                 "id": 133534163,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T00:52:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-23T19:53:29Z",
+                "open_issues": 15,
                 "owner": "prettier-solidity",
                 "repo": "prettier-plugin-solidity",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "ethereum",
                   "prettier",
@@ -3202,11 +3202,11 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T22:56:10Z",
+                "last_commit": "2026-09-23T22:54:56Z",
                 "open_issues": 477,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6366,
+                "stars": 6369,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -3258,7 +3258,7 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T21:34:15Z",
+                "last_commit": "2026-09-23T21:34:24Z",
                 "open_issues": 114,
                 "owner": "crytic",
                 "repo": "echidna",
@@ -3426,7 +3426,7 @@
                 "open_issues": 76,
                 "owner": "argotorg",
                 "repo": "solc-js",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": [
                   "compiler",
                   "ethereum",
@@ -3909,7 +3909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:53:30.928Z",
+    "last_updated": "2026-09-24T00:50:26.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
@@ -3918,10 +3918,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-14T02:55:34Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "bkrem",
       "repo": "awesome-solidity",
-      "stars": 7050,
+      "stars": 7052,
       "topics": [
         "awesome",
         "awesome-list",
