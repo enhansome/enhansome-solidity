@@ -61,7 +61,7 @@
 
 #### Official
 
-* [ethereum/solidity](https://github.com/ethereum/solidity/) ⭐ 25,758 | 🐛 840 | 🌐 C++ | 📅 2026-10-23 - Source code.
+* [ethereum/solidity](https://github.com/ethereum/solidity/) ⭐ 25,760 | 🐛 840 | 🌐 C++ | 📅 2026-10-24 - Source code.
 * [ethereum/solc-bin](https://github.com/ethereum/solc-bin) ⭐ 433 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-23 - Current and historical builds of the compiler.
 * [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheat sheet from the official docs.
 * [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
@@ -94,7 +94,7 @@
 
 #### Security
 
-* [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,824 | 🐛 4 | 🌐 Solidity | 📅 2026-10-20 - Reproduce DeFi hack incidents using Foundry.
+* [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,824 | 🐛 4 | 🌐 Solidity | 📅 2026-10-24 - Reproduce DeFi hack incidents using Foundry.
 * [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) ⭐ 2,481 | 🐛 61 | 🌐 Solidity | 📅 2026-10-22 - Guidelines and training material for writing secure smart contracts.
 * [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) ⭐ 2,182 | 🐛 3 | 📅 2023-07-02 - Opinionated security and code quality checklist for smart contracts.
 * [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) ⭐ 1,707 | 🐛 11 | 🌐 Solidity | 📅 2025-06-03 - Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.
@@ -123,7 +123,7 @@
 ##### Educational
 
 * [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,325 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19 - Collection of patterns and best practices for smart contract development.
-* [libevm/subway](https://github.com/libevm/subway) ⭐ 2,203 | 🐛 6 | 🌐 Solidity | 📅 2023-08-02 - Practical example of how to perform sandwich attacks on Ethereum.
+* [libevm/subway](https://github.com/libevm/subway) ⭐ 2,204 | 🐛 6 | 🌐 Solidity | 📅 2023-08-02 - Practical example of how to perform sandwich attacks on Ethereum.
 * [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) ⭐ 2,114 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03 - Example arbitrage bot using Flashbots.
 * [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) ⭐ 1,164 | 🐛 6 | 🌐 Solidity | 📅 2022-11-20 - Simple, intentionally-limited versions of web3 protocols & apps.
 * [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) ⭐ 952 | 🐛 13 | 📅 2021-11-01 - Comprehensive collection of contract examples.
@@ -155,9 +155,9 @@
 #### Templates
 
 * [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) ⭐ 4,132 | 🐛 15 | 🌐 TypeScript | 📅 2024-06-19 - React components and hooks to build dApps fast without running your own backend.
-* [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) ⭐ 2,056 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-13 - Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.
+* [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) ⭐ 2,057 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-13 - Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.
 * [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) ⭐ 1,969 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-09 - GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.
-* [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) ⭐ 532 | 🐛 0 | 🌐 Solidity | 📅 2026-09-13 - Template to develop smart contracts.
+* [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) ⭐ 532 | 🐛 0 | 🌐 Solidity | 📅 2026-10-24 - Template to develop smart contracts.
 * [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) ⭐ 403 | 🐛 18 | 🌐 TypeScript | 📅 2023-03-04 - Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.
 * [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) ⭐ 355 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-04 - Full-stack dApp starter built with Next.js (React).
 * [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) ⭐ 164 | 🐛 3 | 🌐 Solidity | 📅 2023-01-19 - Streamlined template for getting started with Foundry.
@@ -165,7 +165,7 @@
 
 #### Books
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,536 | 🐛 1 | 📅 2026-10-12 - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,537 | 🐛 1 | 📅 2026-10-12 - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
 * [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
 
 #### Practice
@@ -184,7 +184,7 @@
 
 ## Libraries
 
-* [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,299 | 🐛 342 | 🌐 Solidity | 📅 2026-10-23 - Library for secure smart contract development.
+* [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,301 | 🐛 342 | 🌐 Solidity | 📅 2026-10-23 - Library for secure smart contract development.
 * [Anchor](https://github.com/otter-sec/anchor) ⭐ 5,160 | 🐛 80 | 🌐 Rust | 📅 2026-10-22 - Framework used with Solang for Solana projects.
 * [Vectorized/solady](https://github.com/Vectorized/solady) ⭐ 3,386 | 🐛 46 | 🌐 Solidity | 📅 2026-10-20 - Gas-optimized smart contract snippets.
 * [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) ⭐ 1,335 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-23 - Peripheral smart contracts for interacting with Uniswap V3.
@@ -193,12 +193,12 @@
 * [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) ⭐ 1,155 | 🐛 32 | 🌐 Solidity | 📅 2023-08-21 - Basic string utilities.
 * [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) ⭐ 1,046 | 🐛 15 | 🌐 Solidity | 📅 2026-10-14 - Non-fungible token implementation for Ethereum-based blockchains.
 * [studydefi/money-legos](https://github.com/studydefi/money-legos) ⭐ 1,029 | 🐛 42 | 🌐 Solidity | 📅 2024-12-09 - NPM package providing mainnet addresses, ABIs, and interfaces for popular DeFi protocols.
-* [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) ⭐ 1,007 | 🐛 23 | 🌐 Solidity | 📅 2026-10-20 - Smart contract library for advanced fixed-point math.
+* [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) ⭐ 1,007 | 🐛 23 | 🌐 Solidity | 📅 2026-10-24 - Smart contract library for advanced fixed-point math.
 * [EthWorks/Waffle](https://github.com/EthWorks/Waffle) ⭐ 959 | 🐛 81 | 🌐 TypeScript | 📅 2023-11-22 - Library for writing and testing smart contracts.
 * [dapphub/dappsys](https://github.com/dapphub/dappsys) ⭐ 565 | 🐛 15 | 🌐 Nix | 📅 2022-03-12 - Contract system framework for flexible multi-contract dapps.
 * [optionality/clone-factory](https://github.com/optionality/clone-factory) ⭐ 515 | 🐛 10 | 🌐 Solidity | 📅 2022-08-20 - Simple clone contract factory. Install a master copy of a contract, then easily (cheaply) create clones with separate state.
 * [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) ⭐ 470 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-22 - Upgradeable-first smart contract development library.
-* [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) ⭐ 443 | 🐛 0 | 🌐 Solidity | 📅 2026-10-20 - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
+* [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) ⭐ 443 | 🐛 0 | 🌐 Solidity | 📅 2026-10-24 - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 * [Modular Libraries](https://github.com/modular-network/ethereum-libraries) ⭐ 326 | 🐛 38 | 🌐 JavaScript | 📅 2023-03-01 - Deployed utility libraries to use in your smart contracts.
 * [wbobeirne/eth-balance-checker](https://github.com/wbobeirne/eth-balance-checker) ⭐ 255 | 🐛 30 | 🌐 JavaScript | 📅 2024-03-12 - Smart contract and library pair that allows you to check for multiple ERC20 and Ether balances across multiple addresses in a single RPC call.
 * [mds1/solidity-trigonometry](https://github.com/mds1/solidity-trigonometry) ⭐ 150 | 🐛 0 | 🌐 Solidity | 📅 2023-03-09 - Library with basic trigonometry functions.
@@ -223,13 +223,13 @@
 
 #### General
 
-* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) ⭐ 10,689 | 🐛 251 | 🌐 Rust | 📅 2026-10-24 - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) ⭐ 10,692 | 🐛 244 | 🌐 Rust | 📅 2026-10-24 - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [dapphub/dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 - Command-line-friendly tools for blockchain development.
 * [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) ⭐ 1,594 | 🐛 7 | 🌐 Python | 📅 2026-07-29 - Home for Ethereum smart contracts, with verified contracts from Etherscan.
 * [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) ⭐ 1,367 | 🐛 23 | 🌐 TypeScript | 📅 2025-09-30 - View the source of deployed Ethereum contracts in VS Code.
 * [naddison36/sol2uml](https://github.com/naddison36/sol2uml) ⭐ 1,319 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13 - Unified Modeling Language (UML) class diagram generator for smart contracts.
 * [solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,027 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualize control flows for smart contract security analysis.
-* [alloy-rs/core](https://github.com/alloy-rs/core) ⭐ 967 | 🐛 39 | 🌐 Rust | 📅 2026-10-23 - High-performance Ethereum primitives and library written in Rust for EVM development.
+* [alloy-rs/core](https://github.com/alloy-rs/core) ⭐ 967 | 🐛 39 | 🌐 Rust | 📅 2026-10-24 - High-performance Ethereum primitives and library written in Rust for EVM development.
 * [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) ⭐ 539 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-28 - Interactive shell with lightweight session recording.
 * [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) ⭐ 460 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-22 - Documentation generator for smart contract projects.
 * [weiroll/weiroll](https://github.com/weiroll/weiroll) ⭐ 447 | 🐛 40 | 🌐 Solidity | 📅 2026-04-25 - Simple and efficient operation-chaining/scripting language for the EVM.
@@ -237,11 +237,11 @@
 * [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) ⭐ 262 | 🐛 1 | 🌐 JavaScript | 📅 2022-08-29 - Standalone desktop IDE.
 * [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) ⭐ 167 | 🐛 2 | 🌐 TypeScript | 📅 2023-01-05 - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
 * [sol-merger](https://github.com/RyuuGan/sol-merger) ⭐ 154 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-03 - Merge all imports into a single file for contracts.
-* [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity) ⭐ 148 | 🐛 9 | 🌐 Lean | 📅 2026-10-23 - Lean 4 framework for specifying and proving smart contract properties, with EVM-oriented output.
+* [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity) ⭐ 148 | 🐛 8 | 🌐 Lean | 📅 2026-10-24 - Lean 4 framework for specifying and proving smart contract properties, with EVM-oriented output.
 * [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) ⭐ 63 | 🐛 7 | 🌐 Shell | 📅 2017-09-01 - Complete dApp development environment as a Docker image you can run from the command line.
 * [SIF](https://github.com/chao-peng/SIF) ⭐ 53 | 🐛 9 | 🌐 C++ | 📅 2020-06-27 - Code generation from the AST, analyze and instrument source code.
 * [dapp-scratch](https://github.com/okwme/dapp-scratch) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2018-07-13 - CLI for generating JavaScript modules from contracts for decentralized apps.
-* [ChainBench/OpenChainBench](https://github.com/ChainBench/OpenChainBench) ⭐ 8 | 🐛 6 | 🌐 Go | 📅 2026-10-23 - Continuous benchmarks for RPC provider latency, stale-state probability, and L1/L2 finality across 20+ EVM chains. Useful for infrastructure selection and integration testing.
+* [ChainBench/OpenChainBench](https://github.com/ChainBench/OpenChainBench) ⭐ 8 | 🐛 5 | 🌐 Go | 📅 2026-10-25 - Continuous benchmarks for RPC provider latency, stale-state probability, and L1/L2 finality across 20+ EVM chains. Useful for infrastructure selection and integration testing.
 * [eagr/sol-repl](https://github.com/eagr/sol-repl) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2022-05-07 - Lightweight, feature-rich REPL for instant feedback.
 * [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 * [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
@@ -273,10 +273,10 @@
 
 #### Audit
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,385 | 🐛 497 | 🌐 Python | 📅 2026-10-23 - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
+* [Slither](https://github.com/crytic/slither) ⭐ 6,387 | 🐛 498 | 🌐 Python | 📅 2026-10-23 - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,275 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Security analysis tool for smart contracts.
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,186 | 🐛 108 | 🌐 Haskell | 📅 2026-10-21 - Define properties for your smart contract then use fuzzing to catch security bugs.
-* [ethereum/sourcify](https://github.com/ethereum/sourcify) ⭐ 956 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-21 - Re-compiler for verifying that bytecode corresponds to specific source code.
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,187 | 🐛 107 | 🌐 Haskell | 📅 2026-10-24 - Define properties for your smart contract then use fuzzing to catch security bugs.
+* [ethereum/sourcify](https://github.com/ethereum/sourcify) ⭐ 958 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-21 - Re-compiler for verifying that bytecode corresponds to specific source code.
 * [Aderyn](https://github.com/Cyfrin/aderyn) ⭐ 801 | 🐛 22 | 🌐 Rust | 📅 2026-10-18 - Rust-based open-source static analyzer for finding vulnerabilities in smart contracts.
 * [eth-sri/securify2](https://github.com/eth-sri/securify2) ⭐ 635 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
 * [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
@@ -328,7 +328,7 @@
 
 #### Vim
 
-* [vim-solidity](https://github.com/tomlion/vim-solidity) ⭐ 492 | 🐛 22 | 🌐 Vim script | 📅 2021-05-03 - Vim syntax file.
+* [vim-solidity](https://github.com/tomlion/vim-solidity) ⭐ 493 | 🐛 22 | 🌐 Vim script | 📅 2021-05-03 - Vim syntax file.
 * [solidity.vim](https://github.com/dmdque/solidity.vim) ⭐ 20 | 🐛 1 | 🌐 Vim script | 📅 2018-02-04 - Vim compiler plugin.
 
 #### Visual Studio Code
@@ -353,4 +353,4 @@ To the extent possible under law, [Ben Kremer](https://github.com/bkrem) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
